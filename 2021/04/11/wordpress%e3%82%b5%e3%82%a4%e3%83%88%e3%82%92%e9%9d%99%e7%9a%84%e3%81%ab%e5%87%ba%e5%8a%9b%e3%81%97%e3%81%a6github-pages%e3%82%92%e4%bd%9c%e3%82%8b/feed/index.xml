@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	WordPressサイトを静的に出力してGitHub Pagesを作る へのコメント	</title>
+	<atom:link href="https://masaru-kmt.github.io/2021/04/11/wordpress%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E9%9D%99%E7%9A%84%E3%81%AB%E5%87%BA%E5%8A%9B%E3%81%97%E3%81%A6github-pages%E3%82%92%E4%BD%9C%E3%82%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>https://masaru-kmt.github.io/2021/04/11/wordpress%e3%82%b5%e3%82%a4%e3%83%88%e3%82%92%e9%9d%99%e7%9a%84%e3%81%ab%e5%87%ba%e5%8a%9b%e3%81%97%e3%81%a6github-pages%e3%82%92%e4%bd%9c%e3%82%8b/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wordpress%25e3%2582%25b5%25e3%2582%25a4%25e3%2583%2588%25e3%2582%2592%25e9%259d%2599%25e7%259a%2584%25e3%2581%25ab%25e5%2587%25ba%25e5%258a%259b%25e3%2581%2597%25e3%2581%25a6github-pages%25e3%2582%2592%25e4%25bd%259c%25e3%2582%258b</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Sun, 11 Apr 2021 04:33:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+</channel>
+</rss>
