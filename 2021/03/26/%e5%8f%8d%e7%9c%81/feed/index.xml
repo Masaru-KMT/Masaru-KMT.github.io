@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	反省 へのコメント	</title>
+	<atom:link href="https://masaru-kmt.github.io/2021/03/26/%E5%8F%8D%E7%9C%81/feed/" rel="self" type="application/rss+xml" />
+	<link>https://masaru-kmt.github.io/2021/03/26/%e5%8f%8d%e7%9c%81/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25e5%258f%258d%25e7%259c%2581</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Sat, 03 Apr 2021 07:06:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+</channel>
+</rss>

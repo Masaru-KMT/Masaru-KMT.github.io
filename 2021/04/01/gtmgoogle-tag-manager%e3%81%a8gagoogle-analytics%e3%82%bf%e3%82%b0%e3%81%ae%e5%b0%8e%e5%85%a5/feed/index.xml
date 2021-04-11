@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	GTM(Google Tag Manager)とGA(Google Analytics)タグの導入 へのコメント	</title>
+	<atom:link href="https://masaru-kmt.github.io/2021/04/01/gtmgoogle-tag-manager%E3%81%A8gagoogle-analytics%E3%82%BF%E3%82%B0%E3%81%AE%E5%B0%8E%E5%85%A5/feed/" rel="self" type="application/rss+xml" />
+	<link>https://masaru-kmt.github.io/2021/04/01/gtmgoogle-tag-manager%e3%81%a8gagoogle-analytics%e3%82%bf%e3%82%b0%e3%81%ae%e5%b0%8e%e5%85%a5/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gtmgoogle-tag-manager%25e3%2581%25a8gagoogle-analytics%25e3%2582%25bf%25e3%2582%25b0%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Thu, 01 Apr 2021 09:19:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+</channel>
+</rss>

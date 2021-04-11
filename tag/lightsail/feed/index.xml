@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lightsail - MasaruのIT＆マーケティングBLOG | Info Tech &amp; Marketing BLOG by Masaru</title>
+	<atom:link href="https://masaru-kmt.github.io/tag/lightsail/feed/" rel="self" type="application/rss+xml" />
+	<link>https://masaru-kmt.github.io/</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Sat, 03 Apr 2021 07:19:31 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+<site xmlns="com-wordpress:feed-additions:1">191177362</site>	<item>
+		<title>WordPress Multisiteを選ぶべきか</title>
+		<link>https://masaru-kmt.github.io/2021/04/02/wordpress-multisite%e3%82%92%e9%81%b8%e3%81%b6%e3%81%b9%e3%81%8d%e3%81%8b/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wordpress-multisite%25e3%2582%2592%25e9%2581%25b8%25e3%2581%25b6%25e3%2581%25b9%25e3%2581%258d%25e3%2581%258b</link>
+					<comments>https://masaru-kmt.github.io/2021/04/02/wordpress-multisite%e3%82%92%e9%81%b8%e3%81%b6%e3%81%b9%e3%81%8d%e3%81%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[masaru]]></dc:creator>
+		<pubDate>Fri, 02 Apr 2021 10:28:27 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[Webマーケティング]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Lightsail]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[サブドメイン]]></category>
+		<guid isPermaLink="false">https://masaru-kmt.github.io/?p=117</guid>
+
+					<description><![CDATA[<p>　AWS LightsailのWordPressには通常版とマルチサイト版(WordPress Multisite)の二種類があります。どちらを選んでも致命的な影響はなさそうですが、複数のサブドメインでWordPress&#8230; <a class="more-link" href="https://masaru-kmt.github.io/2021/04/02/wordpress-multisite%e3%82%92%e9%81%b8%e3%81%b6%e3%81%b9%e3%81%8d%e3%81%8b/">続きを読む <span class="screen-reader-text">WordPress Multisiteを選ぶべきか</span></a></p>
+<p>The post <a href="https://masaru-kmt.github.io/2021/04/02/wordpress-multisite%e3%82%92%e9%81%b8%e3%81%b6%e3%81%b9%e3%81%8d%e3%81%8b/">WordPress Multisiteを選ぶべきか</a> first appeared on <a href="https://masaru-kmt.github.io/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>　AWS LightsailのWordPressには通常版とマルチサイト版(WordPress Multisite)の二種類があります。どちらを選んでも致命的な影響はなさそうですが、複数のサブドメインでWordPressを展開したいならMultisiteを選ぶ余地があります。</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="422" src="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/WordPress-vs-Multisite.png?resize=750%2C422&#038;ssl=1" alt="" class="wp-image-119" srcset="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/WordPress-vs-Multisite.png?resize=1024%2C576&amp;ssl=1 1024w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/WordPress-vs-Multisite.png?resize=300%2C169&amp;ssl=1 300w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/WordPress-vs-Multisite.png?resize=768%2C432&amp;ssl=1 768w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/WordPress-vs-Multisite.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /></figure>
+
+
+
+<p>　上図がWordPress Multisiteと一般的なWordPressの違いです。</p>
+
+
+
+<p>　「①　一般的なWordPress」では複数のサブドメインを展開するために同数のLightSailインスタンスを作る必要があります。インスタンスごとにリソースを確保するので、リソースを使い切らない小規模のサイトでは割高になります。一方で、特定ドメイン用のインスタンスを停止しても他のサブドメインに影響が無いと言った利点もあります。</p>
+
+
+
+<p>　「②　WordPress Multisite」では単一のLightSailインスタンス内で複数のサブドメインを展開出来ます。プラグインなど管理が一元化されるほか、LightSailインスタンスをひとつしか起動しないのでアクセス数が少ないうちは料金的にお得になります。ただし、一般的なWordPress用のプラグインが使えなくなる（有償契約が必要など）ことがあるため、初心者やサブドメインの展開予定が全くない場合は避けた方が良さそうです。</p>
+
+
+
+<p>　また大規模なアクセスを期待出来るサイトの場合は、LightSailインスタンスのリソース制約があるのでWordPress Multisiteは避けた方が良いでしょう。「そもそもLightSailで大規模サイトを運用するのか？」という話もありますが<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4a6.png" alt="💦" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h2>長期の仕事を探しています</h2>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="422" src="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/job-request.jpg?resize=750%2C422&#038;ssl=1" alt="" class="wp-image-129" srcset="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/job-request.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/job-request.jpg?resize=300%2C169&amp;ssl=1 300w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/job-request.jpg?resize=768%2C432&amp;ssl=1 768w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/job-request.jpg?w=1280&amp;ssl=1 1280w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /><figcaption>デジタルマーケティング関連の仕事を探しています❢</figcaption></figure>
+
+
+
+<p class="has-yellow-background-color has-background">　今春から長期の仕事を探しています。40代なので「採用はちょっと……」という人事ご担当者様も多いと思います。正直20代の元気な方のような伸びしろはありませんが、当サイトでスキルレベルが適切と思われた方は、お気軽にお声がけ頂ければと思います。下記フォームかツイッター(<a href="https://twitter.com/masarumkt">https://twitter.com/masarumkt</a>)、あるいはメール(masapon05 アットマーク gmail.com)でご連絡下さい。</p>
+
+
+
+<div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7]</div>
+<p><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F02%2Fwordpress-multisite%25e3%2582%2592%25e9%2581%25b8%25e3%2581%25b6%25e3%2581%25b9%25e3%2581%258d%25e3%2581%258b%2F&amp;linkname=WordPress%20Multisite%E3%82%92%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E3%81%8B" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F02%2Fwordpress-multisite%25e3%2582%2592%25e9%2581%25b8%25e3%2581%25b6%25e3%2581%25b9%25e3%2581%258d%25e3%2581%258b%2F&amp;linkname=WordPress%20Multisite%E3%82%92%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E3%81%8B" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F02%2Fwordpress-multisite%25e3%2582%2592%25e9%2581%25b8%25e3%2581%25b6%25e3%2581%25b9%25e3%2581%258d%25e3%2581%258b%2F&amp;linkname=WordPress%20Multisite%E3%82%92%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E3%81%8B" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F02%2Fwordpress-multisite%25e3%2582%2592%25e9%2581%25b8%25e3%2581%25b6%25e3%2581%25b9%25e3%2581%258d%25e3%2581%258b%2F&amp;linkname=WordPress%20Multisite%E3%82%92%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E3%81%8B" title="Facebook Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F02%2Fwordpress-multisite%25e3%2582%2592%25e9%2581%25b8%25e3%2581%25b6%25e3%2581%25b9%25e3%2581%258d%25e3%2581%258b%2F&amp;linkname=WordPress%20Multisite%E3%82%92%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E3%81%8B" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F02%2Fwordpress-multisite%25e3%2582%2592%25e9%2581%25b8%25e3%2581%25b6%25e3%2581%25b9%25e3%2581%258d%25e3%2581%258b%2F&#038;title=WordPress%20Multisite%E3%82%92%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E3%81%8B" data-a2a-url="https://masaru-kmt.github.io/2021/04/02/wordpress-multisite%e3%82%92%e9%81%b8%e3%81%b6%e3%81%b9%e3%81%8d%e3%81%8b/" data-a2a-title="WordPress Multisiteを選ぶべきか"></a></p><p>The post <a href="https://masaru-kmt.github.io/2021/04/02/wordpress-multisite%e3%82%92%e9%81%b8%e3%81%b6%e3%81%b9%e3%81%8d%e3%81%8b/">WordPress Multisiteを選ぶべきか</a> first appeared on <a href="https://masaru-kmt.github.io/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://masaru-kmt.github.io/2021/04/02/wordpress-multisite%e3%82%92%e9%81%b8%e3%81%b6%e3%81%b9%e3%81%8d%e3%81%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">117</post-id>	</item>
+		<item>
+		<title>ようやく常時SSLになりました(Let&#8217;s Encrypt)</title>
+		<link>https://masaru-kmt.github.io/2021/04/01/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e5%b8%b8%e6%99%82ssl%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9flets-encrypt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25e3%2582%2588%25e3%2581%2586%25e3%2582%2584%25e3%2581%258f%25e5%25b8%25b8%25e6%2599%2582ssl%25e3%2581%25ab%25e3%2581%25aa%25e3%2582%258a%25e3%2581%25be%25e3%2581%2597%25e3%2581%259flets-encrypt</link>
+					<comments>https://masaru-kmt.github.io/2021/04/01/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e5%b8%b8%e6%99%82ssl%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9flets-encrypt/#respond</comments>
+		
+		<dc:creator><![CDATA[masaru]]></dc:creator>
+		<pubDate>Thu, 01 Apr 2021 07:39:18 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Bitnami]]></category>
+		<category><![CDATA[Let&#039;s Encrypt]]></category>
+		<category><![CDATA[Lightsail]]></category>
+		<category><![CDATA[SSL]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://masaru-kmt.github.io/?p=73</guid>
+
+					<description><![CDATA[<p>　ウェブマーケ畑の人間なら1日も早く導入したいSSL。個人サイトということもあり、定番の無償SSLであるLet&#8217;s Encryptを導入しました。LightSail環境で立ち上げたWordPressなので一般&#8230; <a class="more-link" href="https://masaru-kmt.github.io/2021/04/01/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e5%b8%b8%e6%99%82ssl%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9flets-encrypt/">続きを読む <span class="screen-reader-text">ようやく常時SSLになりました(Let&#8217;s Encrypt)</span></a></p>
+<p>The post <a href="https://masaru-kmt.github.io/2021/04/01/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e5%b8%b8%e6%99%82ssl%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9flets-encrypt/">ようやく常時SSLになりました(Let’s Encrypt)</a> first appeared on <a href="https://masaru-kmt.github.io/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>　ウェブマーケ畑の人間なら1日も早く導入したいSSL。個人サイトということもあり、定番の無償SSLであるLet&#8217;s Encryptを導入しました。LightSail環境で立ち上げたWordPressなので一般的な環境と少し異なるので、メモしておきます。</p>
+
+
+
+<p>Generate And Install A Let&#8217;s Encrypt SSL Certificate For A Bitnami Application</p>
+
+
+
+<p>　<a rel="noreferrer noopener" href="https://docs.bitnami.com/aws/how-to/generate-install-lets-encrypt-ssl/#step-5-renew-the-let-s-encrypt-certificate" target="_blank">https://docs.bitnami.com/aws/how-to/generate-install-lets-encrypt-ssl/#step-5-renew-the-let-s-encrypt-certificate</a></p>
+
+
+
+<p>bncert-toolというBitnami専用のツールをAWS Lightsailのコンソール上で行います。設定自体はとても簡単ですが、certbotの手順とは異なるので注意が必要です。</p>
+
+
+
+<p>certbot instructions(一般的なdebian &#8211; apacheの場合はこちら)</p>
+
+
+
+<p><a href="https://certbot.eff.org/">https://certbot.eff.org/</a></p>
+
+
+
+<p>　ブログのようなオープンなサイトではSSLはセキュリティ面で必須とは思いませんが、Webブラウザで派手な警告が出ること、Google検索などで低評価を受けることを考えると個人サイトでも不可欠との認識です。</p>
+
+
+
+<p>　技術畑ではない人にはどんどん敷居が高くなる独自ドメインでのサイト構築ですが、何とか時代の変化を追い続けてサイトを延命することには自身のスキル維持という意味でも重要と思います。</p>
+<p><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F01%2F%25e3%2582%2588%25e3%2581%2586%25e3%2582%2584%25e3%2581%258f%25e5%25b8%25b8%25e6%2599%2582ssl%25e3%2581%25ab%25e3%2581%25aa%25e3%2582%258a%25e3%2581%25be%25e3%2581%2597%25e3%2581%259flets-encrypt%2F&amp;linkname=%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E5%B8%B8%E6%99%82SSL%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%28Let%E2%80%99s%20Encrypt%29" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F01%2F%25e3%2582%2588%25e3%2581%2586%25e3%2582%2584%25e3%2581%258f%25e5%25b8%25b8%25e6%2599%2582ssl%25e3%2581%25ab%25e3%2581%25aa%25e3%2582%258a%25e3%2581%25be%25e3%2581%2597%25e3%2581%259flets-encrypt%2F&amp;linkname=%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E5%B8%B8%E6%99%82SSL%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%28Let%E2%80%99s%20Encrypt%29" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F01%2F%25e3%2582%2588%25e3%2581%2586%25e3%2582%2584%25e3%2581%258f%25e5%25b8%25b8%25e6%2599%2582ssl%25e3%2581%25ab%25e3%2581%25aa%25e3%2582%258a%25e3%2581%25be%25e3%2581%2597%25e3%2581%259flets-encrypt%2F&amp;linkname=%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E5%B8%B8%E6%99%82SSL%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%28Let%E2%80%99s%20Encrypt%29" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F01%2F%25e3%2582%2588%25e3%2581%2586%25e3%2582%2584%25e3%2581%258f%25e5%25b8%25b8%25e6%2599%2582ssl%25e3%2581%25ab%25e3%2581%25aa%25e3%2582%258a%25e3%2581%25be%25e3%2581%2597%25e3%2581%259flets-encrypt%2F&amp;linkname=%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E5%B8%B8%E6%99%82SSL%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%28Let%E2%80%99s%20Encrypt%29" title="Facebook Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F01%2F%25e3%2582%2588%25e3%2581%2586%25e3%2582%2584%25e3%2581%258f%25e5%25b8%25b8%25e6%2599%2582ssl%25e3%2581%25ab%25e3%2581%25aa%25e3%2582%258a%25e3%2581%25be%25e3%2581%2597%25e3%2581%259flets-encrypt%2F&amp;linkname=%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E5%B8%B8%E6%99%82SSL%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%28Let%E2%80%99s%20Encrypt%29" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fmasaru-kmt.github.io%2F2021%2F04%2F01%2F%25e3%2582%2588%25e3%2581%2586%25e3%2582%2584%25e3%2581%258f%25e5%25b8%25b8%25e6%2599%2582ssl%25e3%2581%25ab%25e3%2581%25aa%25e3%2582%258a%25e3%2581%25be%25e3%2581%2597%25e3%2581%259flets-encrypt%2F&#038;title=%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E5%B8%B8%E6%99%82SSL%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%28Let%E2%80%99s%20Encrypt%29" data-a2a-url="https://masaru-kmt.github.io/2021/04/01/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e5%b8%b8%e6%99%82ssl%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9flets-encrypt/" data-a2a-title="ようやく常時SSLになりました(Let’s Encrypt)"></a></p><p>The post <a href="https://masaru-kmt.github.io/2021/04/01/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e5%b8%b8%e6%99%82ssl%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9flets-encrypt/">ようやく常時SSLになりました(Let’s Encrypt)</a> first appeared on <a href="https://masaru-kmt.github.io/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://masaru-kmt.github.io/2021/04/01/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e5%b8%b8%e6%99%82ssl%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9flets-encrypt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">73</post-id>	</item>
+	</channel>
+</rss>

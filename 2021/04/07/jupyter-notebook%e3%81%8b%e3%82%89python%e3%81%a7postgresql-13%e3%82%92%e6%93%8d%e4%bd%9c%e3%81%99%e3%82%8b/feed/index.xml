@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Jupyter NotebookからPythonでPostgreSQL 13を操作する へのコメント	</title>
+	<atom:link href="https://masaru-kmt.github.io/2021/04/07/jupyter-notebook%E3%81%8B%E3%82%89python%E3%81%A7postgresql-13%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>https://masaru-kmt.github.io/2021/04/07/jupyter-notebook%e3%81%8b%e3%82%89python%e3%81%a7postgresql-13%e3%82%92%e6%93%8d%e4%bd%9c%e3%81%99%e3%82%8b/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jupyter-notebook%25e3%2581%258b%25e3%2582%2589python%25e3%2581%25a7postgresql-13%25e3%2582%2592%25e6%2593%258d%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Wed, 07 Apr 2021 11:04:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+</channel>
+</rss>

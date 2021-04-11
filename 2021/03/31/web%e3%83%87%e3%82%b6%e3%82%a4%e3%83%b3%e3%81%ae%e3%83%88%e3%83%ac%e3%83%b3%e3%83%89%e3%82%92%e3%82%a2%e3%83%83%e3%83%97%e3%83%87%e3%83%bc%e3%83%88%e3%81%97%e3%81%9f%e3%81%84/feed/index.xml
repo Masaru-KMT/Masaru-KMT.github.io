@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Webデザインのトレンドをアップデートしたい へのコメント	</title>
+	<atom:link href="https://masaru-kmt.github.io/2021/03/31/web%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E3%81%84/feed/" rel="self" type="application/rss+xml" />
+	<link>https://masaru-kmt.github.io/2021/03/31/web%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%81%ae%e3%83%88%e3%83%ac%e3%83%b3%e3%83%89%e3%82%92%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%97%e3%81%9f%e3%81%84/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web%25e3%2583%2587%25e3%2582%25b6%25e3%2582%25a4%25e3%2583%25b3%25e3%2581%25ae%25e3%2583%2588%25e3%2583%25ac%25e3%2583%25b3%25e3%2583%2589%25e3%2582%2592%25e3%2582%25a2%25e3%2583%2583%25e3%2583%2597%25e3%2583%2587%25e3%2583%25bc%25e3%2583%2588%25e3%2581%2597%25e3%2581%259f%25e3%2581%2584</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Wed, 31 Mar 2021 10:55:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+</channel>
+</rss>
