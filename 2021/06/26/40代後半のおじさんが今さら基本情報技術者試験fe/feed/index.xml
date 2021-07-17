@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	40代後半のおじさんが今さら基本情報技術者試験(FE)を受けた理由 へのコメント	</title>
+	<atom:link href="/2021/06/26/40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93fe/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/06/26/40%e4%bb%a3%e5%be%8c%e5%8d%8a%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%81%8c%e4%bb%8a%e3%81%95%e3%82%89%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Sat, 26 Jun 2021 16:14:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	CloudFront+LightSailでスケーラビリティが(それなりに)あるサイトを安く作る へのコメント	</title>
+	<atom:link href="/2021/04/16/cloudfrontlightsail%E3%81%A7%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%A9%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%81%8C%E3%81%9D%E3%82%8C%E3%81%AA%E3%82%8A%E3%81%AB%E3%81%82%E3%82%8B%E3%82%B5%E3%82%A4/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/04/16/cloudfrontlightsail%e3%81%a7%e3%82%b9%e3%82%b1%e3%83%bc%e3%83%a9%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3%e3%81%8c%e3%81%9d%e3%82%8c%e3%81%aa%e3%82%8a%e3%81%ab%e3%81%82%e3%82%8b%e3%82%b5%e3%82%a4/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cloudfrontlightsail%25e3%2581%25a7%25e3%2582%25b9%25e3%2582%25b1%25e3%2583%25bc%25e3%2583%25a9%25e3%2583%2593%25e3%2583%25aa%25e3%2583%2586%25e3%2582%25a3%25e3%2581%258c%25e3%2581%259d%25e3%2582%258c%25e3%2581%25aa%25e3%2582%258a%25e3%2581%25ab%25e3%2581%2582%25e3%2582%258b%25e3%2582%25b5%25e3%2582%25a4</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Fri, 16 Apr 2021 08:34:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>

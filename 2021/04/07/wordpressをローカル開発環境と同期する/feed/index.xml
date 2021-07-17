@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	WordPressをローカル環境と同期する『Local』 へのコメント	</title>
+	<atom:link href="/2021/04/07/wordpress%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%A8%E5%90%8C%E6%9C%9F%E3%81%99%E3%82%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/04/07/wordpress%e3%82%92%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83%e3%81%a8%e5%90%8c%e6%9c%9f%e3%81%99%e3%82%8b/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wordpress%25e3%2582%2592%25e3%2583%25ad%25e3%2583%25bc%25e3%2582%25ab%25e3%2583%25ab%25e9%2596%258b%25e7%2599%25ba%25e7%2592%25b0%25e5%25a2%2583%25e3%2581%25a8%25e5%2590%258c%25e6%259c%259f%25e3%2581%2599%25e3%2582%258b</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Wed, 07 Apr 2021 04:58:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Local - MasaruのIT＆マーケティングBLOG | Info Tech &amp; Marketing BLOG by Masaru</title>
+	<atom:link href="/tag/local/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Wed, 07 Apr 2021 04:58:09 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">191177362</site>	<item>
+		<title>WordPressをローカル環境と同期する『Local』</title>
+		<link>/2021/04/07/wordpress%e3%82%92%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83%e3%81%a8%e5%90%8c%e6%9c%9f%e3%81%99%e3%82%8b/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wordpress%25e3%2582%2592%25e3%2583%25ad%25e3%2583%25bc%25e3%2582%25ab%25e3%2583%25ab%25e9%2596%258b%25e7%2599%25ba%25e7%2592%25b0%25e5%25a2%2583%25e3%2581%25a8%25e5%2590%258c%25e6%259c%259f%25e3%2581%2599%25e3%2582%258b</link>
+					<comments>/2021/04/07/wordpress%e3%82%92%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83%e3%81%a8%e5%90%8c%e6%9c%9f%e3%81%99%e3%82%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[masaru]]></dc:creator>
+		<pubDate>Wed, 07 Apr 2021 04:56:29 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[Webデザイン]]></category>
+		<category><![CDATA[Webマーケティング]]></category>
+		<category><![CDATA[BackWPup]]></category>
+		<category><![CDATA[Local]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=239</guid>
+
+					<description><![CDATA[<p>Webサイトはバックアップしないといずれ「死ぬ」 　私が初めて独自ドメインでWebサイトを立てたのは20年も前になります。しかし2010年代以前に作ったサイトで今も残っているものはひとつもありません。このcan.ne.j&#8230; <a class="more-link" href="/2021/04/07/wordpress%e3%82%92%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83%e3%81%a8%e5%90%8c%e6%9c%9f%e3%81%99%e3%82%8b/">続きを読む <span class="screen-reader-text">WordPressをローカル環境と同期する『Local』</span></a></p>
+<p>The post <a href="/2021/04/07/wordpress%e3%82%92%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83%e3%81%a8%e5%90%8c%e6%9c%9f%e3%81%99%e3%82%8b/">WordPressをローカル環境と同期する『Local』</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2>Webサイトはバックアップしないといずれ「死ぬ」</h2>
+
+
+
+<p>　私が初めて独自ドメインでWebサイトを立てたのは20年も前になります。しかし2010年代以前に作ったサイトで今も残っているものはひとつもありません。このcan.ne.jpドメインにもかつて別のブログがありましたが、もはやデータ復旧もままなりません。</p>
+
+
+
+<p>　不慮の事故、モチベーション喪失、技術の変化……。さまざまな理由でサイトは「死ぬ」のです。AdobeのFlash廃止でも話題になりましたが、多くのサイトが更改しなければ表示も難しくなり、いずれWebからひっそりと消えてなくなります。</p>
+
+
+
+<p>　WordPressというオープンソースCMSのデファクトスタンダードが確立したことで、少なくともサイトデータのサルベージは行い続けられる可能性が高まりました。個人サイトは次々と書き捨てられていく商業サイトと異なり「生きた証」でもあるので、なるべく『生涯現役』を続けたいところです。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>個人サイトのバックアップはローカルで分散</h2>
+
+
+
+<p>　商業サイトではクラウド上にバックアップを取るのが一般的です。複数のクラウドに分散することはあっても、ローカルへの手動バックアップを前提としているサイトは少ないでしょう。</p>
+
+
+
+<p>　しかし個人サイトはクラウドの契約解除や無償ストレージ終了などでバックアップも消えてしまうのが常です。消える直前で対策すればサルベージや移行は可能ですが、仕事や生活の多忙で断念するケースも多いのが現実。やはり最終的には物理的に手元にもデータを置いておくのが一番です。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>ローカルでWordPressサイトをミラー出来る『Local』</h2>
+
+
+
+<p> 　『<a href="https://localwp.com/" target="_blank" rel="noreferrer noopener">Local</a>』はPC上にLAMPやLEMPなどにWordPressを加えたスタックをウィザード形式で構築し、クラウドからバックアップしたデータでローカルサイトとして表示、管理出来るソフトです。無償版があるので個人サイト向きです。Windows、Mac、Linuxの主要OSに全て対応しているのも魅力的です。</p>
+
+
+
+<p>　当サイトを実際にローカルでミラーしてみましたので、メモを残します。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>まずはバックアップ</h2>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="445" src="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup.png?resize=750%2C445&#038;ssl=1" alt="" class="wp-image-242" srcset="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup.png?resize=1024%2C608&amp;ssl=1 1024w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup.png?resize=300%2C178&amp;ssl=1 300w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup.png?resize=768%2C456&amp;ssl=1 768w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup.png?w=1268&amp;ssl=1 1268w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /></figure>
+
+
+
+<p>　Local自体にはクラウド上のWordPressサイトをバックアップする機能はありません。WordPressにはバックアップ用のプラグインが複数ありますが、今回は『BackWPup』を使います。</p>
+
+
+
+<p>　まず、ジョブを作成します。バックアップ対象は『DBバックアップ』『ファイル』『プラグイン』の3つ、宛先は『フォルダー』、圧縮形式は『zip』にしました。</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="355" src="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup_Download.png?resize=750%2C355&#038;ssl=1" alt="" class="wp-image-245" srcset="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup_Download.png?resize=1024%2C485&amp;ssl=1 1024w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup_Download.png?resize=300%2C142&amp;ssl=1 300w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup_Download.png?resize=768%2C364&amp;ssl=1 768w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup_Download.png?resize=1536%2C727&amp;ssl=1 1536w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup_Download.png?resize=1568%2C742&amp;ssl=1 1568w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/BackWPup_Download.png?w=1595&amp;ssl=1 1595w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /></figure>
+
+
+
+<p>　　バックアップファイルはまずクラウド(LightSail)上に作られますので、『バックアップ』サブメニューから『ダウンロード』を選んで取得します。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>バックアップのLocalへのインポート</h2>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="522" src="https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_import_site.png?resize=750%2C522&#038;ssl=1" alt="" class="wp-image-246" srcset="https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_import_site.png?resize=1024%2C713&amp;ssl=1 1024w, https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_import_site.png?resize=300%2C209&amp;ssl=1 300w, https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_import_site.png?resize=768%2C535&amp;ssl=1 768w, https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_import_site.png?w=1198&amp;ssl=1 1198w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /><figcaption>Localを起動し、『Import Site』でzipファイルを読み込む</figcaption></figure>
+
+
+
+<p>　バックアップデータを取得したらLocalを起動し、『Import Site』でzipファイルを読み込みます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="520" src="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_env.png?resize=750%2C520&#038;ssl=1" alt="" class="wp-image-247" srcset="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_env.png?resize=1024%2C710&amp;ssl=1 1024w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_env.png?resize=300%2C208&amp;ssl=1 300w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_env.png?resize=768%2C532&amp;ssl=1 768w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_env.png?w=1203&amp;ssl=1 1203w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /><figcaption>LAMPのバージョンはクラウドと合わせる</figcaption></figure>
+
+
+
+<p>　LocalはWebサーバにApacheとnginxを選べるなどスタックの選択肢が充実しています。サイトの再現性の観点から、なるべくクラウド上のスタックとバージョンを合わせた方が良いそうです。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>クラウド上のWordPressサイトがほぼローカルで再現</h2>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="442" src="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_site.png?resize=750%2C442&#038;ssl=1" alt="" class="wp-image-249" srcset="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_site.png?resize=1024%2C603&amp;ssl=1 1024w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_site.png?resize=300%2C177&amp;ssl=1 300w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_site.png?resize=768%2C452&amp;ssl=1 768w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_site.png?resize=1536%2C905&amp;ssl=1 1536w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_site.png?resize=1568%2C924&amp;ssl=1 1568w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_site.png?w=1594&amp;ssl=1 1594w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /><figcaption>Ubuntu上のLocalでWordPressサイトが表示された</figcaption></figure>
+
+
+
+<p>　ご覧のとおり、ローカルドメイン(can.ne.jp.local)でWordPressサイトが表示されています。テーマやプラグインまで再現されているので、クラウド上のサイトイメージそのままで見られるのは嬉しいところです。</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="483" src="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_admin.png?resize=750%2C483&#038;ssl=1" alt="" class="wp-image-250" srcset="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_admin.png?resize=1024%2C659&amp;ssl=1 1024w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_admin.png?resize=300%2C193&amp;ssl=1 300w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_admin.png?resize=768%2C495&amp;ssl=1 768w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/04/Local_admin.png?w=1275&amp;ssl=1 1275w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /><figcaption>管理画面もローカルで動く</figcaption></figure>
+
+
+
+<p>　管理画面もローカルで動いています。この環境を複数のPCやMac上に持っておけば不測の事態でも生き延びた端末から復旧が出来そうです。Web分野のトレンドが大きく変わってしまったときは、Localで過去のサイトデザインを確認しながら、どのように移行させるか検討することになるでしょう。</p>
+		<div class="wpulike wpulike-default " ><div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="いいねボタン"
+					data-ulike-id="239"
+					data-ulike-nonce="fd977f7e73"
+					data-ulike-type="post"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_image wp_post_btn_239"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>			</div></div>
+	<p><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=%2F2021%2F04%2F07%2Fwordpress%25e3%2582%2592%25e3%2583%25ad%25e3%2583%25bc%25e3%2582%25ab%25e3%2583%25ab%25e9%2596%258b%25e7%2599%25ba%25e7%2592%25b0%25e5%25a2%2583%25e3%2581%25a8%25e5%2590%258c%25e6%259c%259f%25e3%2581%2599%25e3%2582%258b%2F&amp;linkname=WordPress%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A8%E5%90%8C%E6%9C%9F%E3%81%99%E3%82%8B%E3%80%8ELocal%E3%80%8F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=%2F2021%2F04%2F07%2Fwordpress%25e3%2582%2592%25e3%2583%25ad%25e3%2583%25bc%25e3%2582%25ab%25e3%2583%25ab%25e9%2596%258b%25e7%2599%25ba%25e7%2592%25b0%25e5%25a2%2583%25e3%2581%25a8%25e5%2590%258c%25e6%259c%259f%25e3%2581%2599%25e3%2582%258b%2F&amp;linkname=WordPress%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A8%E5%90%8C%E6%9C%9F%E3%81%99%E3%82%8B%E3%80%8ELocal%E3%80%8F" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=%2F2021%2F04%2F07%2Fwordpress%25e3%2582%2592%25e3%2583%25ad%25e3%2583%25bc%25e3%2582%25ab%25e3%2583%25ab%25e9%2596%258b%25e7%2599%25ba%25e7%2592%25b0%25e5%25a2%2583%25e3%2581%25a8%25e5%2590%258c%25e6%259c%259f%25e3%2581%2599%25e3%2582%258b%2F&amp;linkname=WordPress%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A8%E5%90%8C%E6%9C%9F%E3%81%99%E3%82%8B%E3%80%8ELocal%E3%80%8F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=%2F2021%2F04%2F07%2Fwordpress%25e3%2582%2592%25e3%2583%25ad%25e3%2583%25bc%25e3%2582%25ab%25e3%2583%25ab%25e9%2596%258b%25e7%2599%25ba%25e7%2592%25b0%25e5%25a2%2583%25e3%2581%25a8%25e5%2590%258c%25e6%259c%259f%25e3%2581%2599%25e3%2582%258b%2F&amp;linkname=WordPress%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A8%E5%90%8C%E6%9C%9F%E3%81%99%E3%82%8B%E3%80%8ELocal%E3%80%8F" title="Facebook Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=%2F2021%2F04%2F07%2Fwordpress%25e3%2582%2592%25e3%2583%25ad%25e3%2583%25bc%25e3%2582%25ab%25e3%2583%25ab%25e9%2596%258b%25e7%2599%25ba%25e7%2592%25b0%25e5%25a2%2583%25e3%2581%25a8%25e5%2590%258c%25e6%259c%259f%25e3%2581%2599%25e3%2582%258b%2F&amp;linkname=WordPress%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A8%E5%90%8C%E6%9C%9F%E3%81%99%E3%82%8B%E3%80%8ELocal%E3%80%8F" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=%2F2021%2F04%2F07%2Fwordpress%25e3%2582%2592%25e3%2583%25ad%25e3%2583%25bc%25e3%2582%25ab%25e3%2583%25ab%25e9%2596%258b%25e7%2599%25ba%25e7%2592%25b0%25e5%25a2%2583%25e3%2581%25a8%25e5%2590%258c%25e6%259c%259f%25e3%2581%2599%25e3%2582%258b%2F&#038;title=WordPress%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A8%E5%90%8C%E6%9C%9F%E3%81%99%E3%82%8B%E3%80%8ELocal%E3%80%8F" data-a2a-url="/2021/04/07/wordpress%e3%82%92%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83%e3%81%a8%e5%90%8c%e6%9c%9f%e3%81%99%e3%82%8b/" data-a2a-title="WordPressをローカル環境と同期する『Local』"></a></p><p>The post <a href="/2021/04/07/wordpress%e3%82%92%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83%e3%81%a8%e5%90%8c%e6%9c%9f%e3%81%99%e3%82%8b/">WordPressをローカル環境と同期する『Local』</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/07/wordpress%e3%82%92%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83%e3%81%a8%e5%90%8c%e6%9c%9f%e3%81%99%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">239</post-id>	</item>
+	</channel>
+</rss>
