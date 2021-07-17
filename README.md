@@ -1,1 +1,0 @@
-# Masaru-KMT.github.io
