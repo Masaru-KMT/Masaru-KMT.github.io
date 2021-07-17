@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Google Colaboratory(Colab Pro)でkaggleデータをダウンロードする方法[備忘録] へのコメント	</title>
+	<atom:link href="/2021/07/13/google-colaboratorycolab-pro%E3%81%A7kaggle%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E5%82%99%E5%BF%98%E9%8C%B2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/07/13/google-colaboratorycolab-pro%e3%81%a7kaggle%e3%83%87%e3%83%bc%e3%82%bf%e3%82%92%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89%e3%81%99%e3%82%8b%e6%96%b9%e6%b3%95%e5%82%99%e5%bf%98%e9%8c%b2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=google-colaboratorycolab-pro%25e3%2581%25a7kaggle%25e3%2583%2587%25e3%2583%25bc%25e3%2582%25bf%25e3%2582%2592%25e3%2583%2580%25e3%2582%25a6%25e3%2583%25b3%25e3%2583%25ad%25e3%2583%25bc%25e3%2583%2589%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e5%2582%2599%25e5%25bf%2598%25e9%258c%25b2</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Tue, 13 Jul 2021 01:37:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>

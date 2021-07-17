@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>コンテンツマーケティング - MasaruのIT＆マーケティングBLOG | Info Tech &amp; Marketing BLOG by Masaru</title>
+	<atom:link href="/tag/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Sat, 08 May 2021 08:49:54 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">191177362</site>	<item>
+		<title>Google広告を出稿してキーワードプランナーを使い倒す</title>
+		<link>/2021/05/08/google%e5%ba%83%e5%91%8a%e3%82%92%e5%87%ba%e7%a8%bf%e3%81%97%e3%81%a6%e3%82%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%89%e3%83%97%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc%e3%82%92%e4%bd%bf%e3%81%84%e5%80%92/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=google%25e5%25ba%2583%25e5%2591%258a%25e3%2582%2592%25e5%2587%25ba%25e7%25a8%25bf%25e3%2581%2597%25e3%2581%25a6%25e3%2582%25ad%25e3%2583%25bc%25e3%2583%25af%25e3%2583%25bc%25e3%2583%2589%25e3%2583%2597%25e3%2583%25a9%25e3%2583%25b3%25e3%2583%258a%25e3%2583%25bc%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%2584%25e5%2580%2592</link>
+					<comments>/2021/05/08/google%e5%ba%83%e5%91%8a%e3%82%92%e5%87%ba%e7%a8%bf%e3%81%97%e3%81%a6%e3%82%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%89%e3%83%97%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc%e3%82%92%e4%bd%bf%e3%81%84%e5%80%92/#respond</comments>
+		
+		<dc:creator><![CDATA[masaru]]></dc:creator>
+		<pubDate>Sat, 08 May 2021 08:49:47 +0000</pubDate>
+				<category><![CDATA[Webマーケティング]]></category>
+		<category><![CDATA[Google広告]]></category>
+		<category><![CDATA[キーワードプランナー]]></category>
+		<category><![CDATA[コンテンツマーケティング]]></category>
+		<guid isPermaLink="false">/?p=432</guid>
+
+					<description><![CDATA[<p>売りたいモノが(自分自身以外)無くても広告を出稿しよう 　検索広告の存在は誰でも（嫌というほど）知っていますが、広告の出稿方法を実際に知っている人は「仕事で使ったことがある」方以外にはあまり居ないと思います。 　しかし、&#8230; <a class="more-link" href="/2021/05/08/google%e5%ba%83%e5%91%8a%e3%82%92%e5%87%ba%e7%a8%bf%e3%81%97%e3%81%a6%e3%82%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%89%e3%83%97%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc%e3%82%92%e4%bd%bf%e3%81%84%e5%80%92/">続きを読む <span class="screen-reader-text">Google広告を出稿してキーワードプランナーを使い倒す</span></a></p>
+<p>The post <a href="/2021/05/08/google%e5%ba%83%e5%91%8a%e3%82%92%e5%87%ba%e7%a8%bf%e3%81%97%e3%81%a6%e3%82%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%89%e3%83%97%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc%e3%82%92%e4%bd%bf%e3%81%84%e5%80%92/">Google広告を出稿してキーワードプランナーを使い倒す</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2>売りたいモノが(自分自身以外)無くても広告を出稿しよう</h2>
+
+
+
+<p>　検索広告の存在は誰でも（嫌というほど）知っていますが、広告の出稿方法を実際に知っている人は「仕事で使ったことがある」方以外にはあまり居ないと思います。</p>
+
+
+
+<p>　しかし、can.ne.jpでは敢えて皆さんにお勧めします。</p>
+
+
+
+<p class="has-text-align-center has-white-background-color has-text-color has-background" style="color:#a34200;font-size:34px"><strong>誰でも広告を出稿しておこう</strong></p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>理由①　お金はあまりかからない</h2>
+
+
+
+<p>　Web広告の基本であり王道である『キーワード広告』。CPC(Cost Per Click)と呼ばれ、クリック毎に課金されます。キーワードごとにクリック単価が設定されており、<span style="text-decoration: underline;">出稿出来る総量も決まっています</span>（検索されないと表示されないので）。</p>
+
+
+
+<p>　つまり、「出稿量が少なくクリック単価も低い広告であれば、出稿しても<span style="text-decoration: underline;">微課金で済む</span>(もちろん流入もそれなり)」ということです。そこで、私も実際に<a href="https://ads.google.com/intl/ja_JP/home/" target="_blank" rel="noreferrer noopener">Google広告</a>を出稿しています<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/263a.png" alt="☺" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="428" src="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads.png?resize=750%2C428&#038;ssl=1" alt="" class="wp-image-434" srcset="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads.png?resize=1024%2C585&amp;ssl=1 1024w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads.png?resize=300%2C171&amp;ssl=1 300w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads.png?resize=768%2C438&amp;ssl=1 768w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads.png?resize=1536%2C877&amp;ssl=1 1536w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads.png?resize=2048%2C1169&amp;ssl=1 2048w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads.png?resize=1568%2C895&amp;ssl=1 1568w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads.png?w=2250&amp;ssl=1 2250w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /></figure>
+
+
+
+<p>　わずかではありますが、実際に広告をクリックしてcan.ne.jpをご訪問頂いた方もいらっしゃいます！</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>理由②　Google Analyticsの勉強になる</h2>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="644" height="568" src="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/cpc.png?resize=644%2C568&#038;ssl=1" alt="" class="wp-image-435" srcset="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/cpc.png?w=644&amp;ssl=1 644w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/cpc.png?resize=300%2C265&amp;ssl=1 300w" sizes="(max-width: 644px) 100vw, 644px" data-recalc-dims="1" /></figure>
+
+
+
+<p>　Google Analyticsのキャンペーンメニューを見ると、『上位のキャンペーン』に『cpc』が表示されています。これがGoogle広告経由での流入となります。</p>
+
+
+
+<p>　もちろん、この項目は広告を出稿しないと表示されません。<span style="text-decoration: underline;">実際に広告を出稿</span>してみて初めて、GAが広告出稿をどのように捕捉するかが分かることになります。しかし、ふつうは仕事で広告に関わっていないと肌感覚で「広告出稿～効果測定」の流れを知ることが出来ません。運よく仕事（会社のカネ！）で広告出稿をする機会があれば自腹を切る必要はありませんが、そうでなければ自分で広告を出稿するしかありません。</p>
+
+
+
+<p>　同じ発想で言えば、自分のショッピングカートや自分の商品もサイト上に置いておくべきです（can.ne.jpではまだ出来ていませんが）。「さすがにそこまでやるのは面倒すぎる」という方は、B2Bのお約束である『資料請求フォーム』を用意してリード獲得のコンバージョンを設定するのが良いでしょう。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>　理由③　キーワードプランナーが使える</h2>
+
+
+
+<p>　これが私がGoogle広告を登録した最大の理由です。広告を出稿したことがない方でも<a href="https://trends.google.co.jp/trends/?geo=JP" target="_blank" rel="noreferrer noopener">Googleトレンド</a>などでキーワードごとの検索動向をチェックしたことがあるかも知れません。</p>
+
+
+
+<p>　しかし、Googleトレンドではグラフが出るだけで、実数として検索数を取得することは出来ません。実は、Google広告に付属の『キーワード プランナー』というツールを使えば、<strong>とてもざっくり</strong>とではありますが<span style="text-decoration: underline;">任意のキーワードに対する検索数を取得出来ます</span>。</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads_search_volume-1.png?resize=610%2C432&#038;ssl=1" alt="" class="wp-image-436" width="610" height="432" srcset="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads_search_volume-1.png?resize=1024%2C725&amp;ssl=1 1024w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads_search_volume-1.png?resize=300%2C213&amp;ssl=1 300w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads_search_volume-1.png?resize=768%2C544&amp;ssl=1 768w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads_search_volume-1.png?resize=1536%2C1088&amp;ssl=1 1536w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads_search_volume-1.png?resize=2048%2C1451&amp;ssl=1 2048w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads_search_volume-1.png?resize=1568%2C1111&amp;ssl=1 1568w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/Google_Ads_search_volume-1.png?w=2250&amp;ssl=1 2250w" sizes="(max-width: 610px) 100vw, 610px" data-recalc-dims="1" /></figure>
+
+
+
+<p>　　本来は出稿するキーワードやフレーズを検討するためのツールですが、とても<span style="text-decoration: underline;">自分では出稿出来ないようなビッグワード</span>の検索推移なども把握できます。このツールを用いて、「どのような検索ワードの人気があるか」「どのようなテーマの人気が上がってきているか」が分かるので、</p>
+
+
+
+<p class="has-text-align-center has-white-background-color has-text-color has-background has-large-font-size" style="color:#a34200"><strong>どんなテーマでブログを書けば人が来るか分かる</strong></p>
+
+
+
+<p>ということになります。私は実際に仕事でキーワードプランナーを用いてニーズが高まっているテーマを見つけて、人気ページに育てた経験があります。このような分野を『コンテンツマーケティング』と呼びます。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>コンテンツマーケティングの光と陰</h2>
+
+
+
+<p>　ただし、アクセスがどんどん増えていったものの、取扱商品の売上はさっぱり伸びませんでした(苦笑)。アクセスさえ稼げばお金になるのはニュースサイトなどメディア系だけで、Eコマースでは「テーマへの関心」から「商品への関心」を引き出す『コンバージョン』というプロセスが欠かせません。</p>
+
+
+
+<p>　コンテンツマーケティングは「ひたすら書くだけで、お金がかからない」という性質があるので、中小サイトではコンバージョンの有無に関わらず考え付く限りの関連ページを量産するのが普通です。しかし、人生もお金も有限なので、仕事である限りはコンバージョン率を常に念頭に置いてコンテンツマーケティングにも取り組むべきだと思います。</p>
+
+
+
+<p>　Webは良くも悪しくも「無料が当たり前」の世界です。Webが好きな人はボランティア精神に溢れた方が多く、多くのアクセスや『いいね』をもらえれば、お金にならなくても熱心にコンテンツを作る方が少なくありません。</p>
+
+
+
+<p>　しかし、私のように食うのにも困る状況になってしまっては元も子もありません。仕事では心を鬼にして、「いまのWeb作業はマネタイズにつながっているか」を常に意識する必要があります（自戒をこめて）。</p>
+		<div class="wpulike wpulike-default " ><div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="いいねボタン"
+					data-ulike-id="432"
+					data-ulike-nonce="9e82361605"
+					data-ulike-type="post"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_image wp_post_btn_432"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>			</div></div>
+	<p><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=%2F2021%2F05%2F08%2Fgoogle%25e5%25ba%2583%25e5%2591%258a%25e3%2582%2592%25e5%2587%25ba%25e7%25a8%25bf%25e3%2581%2597%25e3%2581%25a6%25e3%2582%25ad%25e3%2583%25bc%25e3%2583%25af%25e3%2583%25bc%25e3%2583%2589%25e3%2583%2597%25e3%2583%25a9%25e3%2583%25b3%25e3%2583%258a%25e3%2583%25bc%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%2584%25e5%2580%2592%2F&amp;linkname=Google%E5%BA%83%E5%91%8A%E3%82%92%E5%87%BA%E7%A8%BF%E3%81%97%E3%81%A6%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%84%E5%80%92%E3%81%99" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=%2F2021%2F05%2F08%2Fgoogle%25e5%25ba%2583%25e5%2591%258a%25e3%2582%2592%25e5%2587%25ba%25e7%25a8%25bf%25e3%2581%2597%25e3%2581%25a6%25e3%2582%25ad%25e3%2583%25bc%25e3%2583%25af%25e3%2583%25bc%25e3%2583%2589%25e3%2583%2597%25e3%2583%25a9%25e3%2583%25b3%25e3%2583%258a%25e3%2583%25bc%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%2584%25e5%2580%2592%2F&amp;linkname=Google%E5%BA%83%E5%91%8A%E3%82%92%E5%87%BA%E7%A8%BF%E3%81%97%E3%81%A6%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%84%E5%80%92%E3%81%99" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=%2F2021%2F05%2F08%2Fgoogle%25e5%25ba%2583%25e5%2591%258a%25e3%2582%2592%25e5%2587%25ba%25e7%25a8%25bf%25e3%2581%2597%25e3%2581%25a6%25e3%2582%25ad%25e3%2583%25bc%25e3%2583%25af%25e3%2583%25bc%25e3%2583%2589%25e3%2583%2597%25e3%2583%25a9%25e3%2583%25b3%25e3%2583%258a%25e3%2583%25bc%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%2584%25e5%2580%2592%2F&amp;linkname=Google%E5%BA%83%E5%91%8A%E3%82%92%E5%87%BA%E7%A8%BF%E3%81%97%E3%81%A6%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%84%E5%80%92%E3%81%99" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=%2F2021%2F05%2F08%2Fgoogle%25e5%25ba%2583%25e5%2591%258a%25e3%2582%2592%25e5%2587%25ba%25e7%25a8%25bf%25e3%2581%2597%25e3%2581%25a6%25e3%2582%25ad%25e3%2583%25bc%25e3%2583%25af%25e3%2583%25bc%25e3%2583%2589%25e3%2583%2597%25e3%2583%25a9%25e3%2583%25b3%25e3%2583%258a%25e3%2583%25bc%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%2584%25e5%2580%2592%2F&amp;linkname=Google%E5%BA%83%E5%91%8A%E3%82%92%E5%87%BA%E7%A8%BF%E3%81%97%E3%81%A6%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%84%E5%80%92%E3%81%99" title="Facebook Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=%2F2021%2F05%2F08%2Fgoogle%25e5%25ba%2583%25e5%2591%258a%25e3%2582%2592%25e5%2587%25ba%25e7%25a8%25bf%25e3%2581%2597%25e3%2581%25a6%25e3%2582%25ad%25e3%2583%25bc%25e3%2583%25af%25e3%2583%25bc%25e3%2583%2589%25e3%2583%2597%25e3%2583%25a9%25e3%2583%25b3%25e3%2583%258a%25e3%2583%25bc%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%2584%25e5%2580%2592%2F&amp;linkname=Google%E5%BA%83%E5%91%8A%E3%82%92%E5%87%BA%E7%A8%BF%E3%81%97%E3%81%A6%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%84%E5%80%92%E3%81%99" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=%2F2021%2F05%2F08%2Fgoogle%25e5%25ba%2583%25e5%2591%258a%25e3%2582%2592%25e5%2587%25ba%25e7%25a8%25bf%25e3%2581%2597%25e3%2581%25a6%25e3%2582%25ad%25e3%2583%25bc%25e3%2583%25af%25e3%2583%25bc%25e3%2583%2589%25e3%2583%2597%25e3%2583%25a9%25e3%2583%25b3%25e3%2583%258a%25e3%2583%25bc%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%2584%25e5%2580%2592%2F&#038;title=Google%E5%BA%83%E5%91%8A%E3%82%92%E5%87%BA%E7%A8%BF%E3%81%97%E3%81%A6%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%84%E5%80%92%E3%81%99" data-a2a-url="/2021/05/08/google%e5%ba%83%e5%91%8a%e3%82%92%e5%87%ba%e7%a8%bf%e3%81%97%e3%81%a6%e3%82%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%89%e3%83%97%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc%e3%82%92%e4%bd%bf%e3%81%84%e5%80%92/" data-a2a-title="Google広告を出稿してキーワードプランナーを使い倒す"></a></p><p>The post <a href="/2021/05/08/google%e5%ba%83%e5%91%8a%e3%82%92%e5%87%ba%e7%a8%bf%e3%81%97%e3%81%a6%e3%82%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%89%e3%83%97%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc%e3%82%92%e4%bd%bf%e3%81%84%e5%80%92/">Google広告を出稿してキーワードプランナーを使い倒す</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/2021/05/08/google%e5%ba%83%e5%91%8a%e3%82%92%e5%87%ba%e7%a8%bf%e3%81%97%e3%81%a6%e3%82%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%89%e3%83%97%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc%e3%82%92%e4%bd%bf%e3%81%84%e5%80%92/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">432</post-id>	</item>
+	</channel>
+</rss>

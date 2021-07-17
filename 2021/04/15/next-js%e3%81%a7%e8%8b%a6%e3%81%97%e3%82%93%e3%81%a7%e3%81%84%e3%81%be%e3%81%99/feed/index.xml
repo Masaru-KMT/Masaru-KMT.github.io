@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Next.jsで苦しんでいます へのコメント	</title>
+	<atom:link href="/2021/04/15/next-js%E3%81%A7%E8%8B%A6%E3%81%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/04/15/next-js%e3%81%a7%e8%8b%a6%e3%81%97%e3%82%93%e3%81%a7%e3%81%84%e3%81%be%e3%81%99/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=next-js%25e3%2581%25a7%25e8%258b%25a6%25e3%2581%2597%25e3%2582%2593%25e3%2581%25a7%25e3%2581%2584%25e3%2581%25be%25e3%2581%2599</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Wed, 14 Apr 2021 16:23:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>

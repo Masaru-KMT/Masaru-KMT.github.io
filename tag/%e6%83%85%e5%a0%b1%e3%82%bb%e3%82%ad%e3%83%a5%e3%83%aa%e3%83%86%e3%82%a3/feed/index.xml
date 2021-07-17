@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>情報セキュリティ - MasaruのIT＆マーケティングBLOG | Info Tech &amp; Marketing BLOG by Masaru</title>
+	<atom:link href="/tag/%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Wed, 26 May 2021 10:21:02 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">191177362</site>	<item>
+		<title>[AWS+WordPress]今さら聞けない二段階認証(MFAデバイス)でのセキュリティ強化</title>
+		<link>/2021/05/26/awswordpress%e4%bb%8a%e3%81%95%e3%82%89%e8%81%9e%e3%81%91%e3%81%aa%e3%81%84%e4%ba%8c%e6%ae%b5%e9%9a%8e%e8%aa%8d%e8%a8%bcmfa%e3%83%87%e3%83%90%e3%82%a4%e3%82%b9%e3%81%a7%e3%81%ae%e3%82%bb%e3%82%ad/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=awswordpress%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e8%2581%259e%25e3%2581%2591%25e3%2581%25aa%25e3%2581%2584%25e4%25ba%258c%25e6%25ae%25b5%25e9%259a%258e%25e8%25aa%258d%25e8%25a8%25bcmfa%25e3%2583%2587%25e3%2583%2590%25e3%2582%25a4%25e3%2582%25b9%25e3%2581%25a7%25e3%2581%25ae%25e3%2582%25bb%25e3%2582%25ad</link>
+					<comments>/2021/05/26/awswordpress%e4%bb%8a%e3%81%95%e3%82%89%e8%81%9e%e3%81%91%e3%81%aa%e3%81%84%e4%ba%8c%e6%ae%b5%e9%9a%8e%e8%aa%8d%e8%a8%bcmfa%e3%83%87%e3%83%90%e3%82%a4%e3%82%b9%e3%81%a7%e3%81%ae%e3%82%bb%e3%82%ad/#respond</comments>
+		
+		<dc:creator><![CDATA[masaru]]></dc:creator>
+		<pubDate>Wed, 26 May 2021 10:09:49 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[MFA]]></category>
+		<category><![CDATA[MFAデバイス]]></category>
+		<category><![CDATA[RFC 6238]]></category>
+		<category><![CDATA[TOTP]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[ワンタイムパスワード]]></category>
+		<category><![CDATA[二段階認証]]></category>
+		<category><![CDATA[仮想MFAデバイス]]></category>
+		<category><![CDATA[多要素認証]]></category>
+		<category><![CDATA[情報セキュリティ]]></category>
+		<category><![CDATA[認証アプリ]]></category>
+		<guid isPermaLink="false">/?p=440</guid>
+
+					<description><![CDATA[<p>聞くとヤバいので本当に今さら聞けないセキュリティ対策 　枯れた技術の入門記事で「今さら聞けない」を枕詞にしたものをよく見ますが、「本当に聞けない」のがセキュリティ対策です。なにせ「知らない」「やってない」ことがバレた時点&#8230; <a class="more-link" href="/2021/05/26/awswordpress%e4%bb%8a%e3%81%95%e3%82%89%e8%81%9e%e3%81%91%e3%81%aa%e3%81%84%e4%ba%8c%e6%ae%b5%e9%9a%8e%e8%aa%8d%e8%a8%bcmfa%e3%83%87%e3%83%90%e3%82%a4%e3%82%b9%e3%81%a7%e3%81%ae%e3%82%bb%e3%82%ad/">続きを読む <span class="screen-reader-text">[AWS+WordPress]今さら聞けない二段階認証(MFAデバイス)でのセキュリティ強化</span></a></p>
+<p>The post <a href="/2021/05/26/awswordpress%e4%bb%8a%e3%81%95%e3%82%89%e8%81%9e%e3%81%91%e3%81%aa%e3%81%84%e4%ba%8c%e6%ae%b5%e9%9a%8e%e8%aa%8d%e8%a8%bcmfa%e3%83%87%e3%83%90%e3%82%a4%e3%82%b9%e3%81%a7%e3%81%ae%e3%82%bb%e3%82%ad/">[AWS+WordPress]今さら聞けない二段階認証(MFAデバイス)でのセキュリティ強化</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2>聞くとヤバいので本当に今さら聞けないセキュリティ対策</h2>
+
+
+
+<p>　枯れた技術の入門記事で「今さら聞けない」を枕詞にしたものをよく見ますが、「本当に聞けない」のが<strong>セキュリティ対策</strong>です。なにせ<span style="text-decoration: underline;">「知らない」「やってない」ことがバレた時点で「セキュリティ甘々なサイト」と他所様に認識されてしまう</span>のですから……。</p>
+
+
+
+<p>　この数か月で少しAWSとWordPressに詳しくなったので、復習がてら導入のアドバイス・コンサルティングを始めました。お客様のお話をお伺いしていると情報セキュリティへのご関心が高いようです。WordPressは有名CMSなので、セキュリティホールを突く攻撃から面倒くさい<strong>コメントスパム</strong>、<strong>フォームスパム</strong>まで日々痛い目に遭っている方が多いようです。</p>
+
+
+
+<p>　私自身は<strong>情報処理安全確保支援士</strong>(SC)の資格など持っていませんし、そもそもエンジニアですらありません(アドミン君でないとは言い切れませんが……)。従ってセキュリティを語る資格は無いのですが、現実問題としてウェブサイトを立てた瞬間からセキュリティのリスクと責任を負ってしまうので<s>どこぞの予約サイトのように</s>セキュリティを全く無視するわけにはいきません。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>今さら「入れない」では済まない二段階認証(多要素認証＝MFA)</h2>
+
+
+
+<p>　昔は二段階認証と言えばオンラインバンキングなど金融系が中心でした。しかし、ここ数年でセキュリティ事故による情報流出が多発し、IDパスワードが攻撃者に奪われてしまいました。</p>
+
+
+
+<p>　その結果、各種のサービスに不正取得したIDパスワードを使って侵入し不正送金などを行い、ユーザーが深刻な被害を受ける事件まで起こってしまいました。その結果、みんな大好きメルカリやYahoo!/PayPayを筆頭に、一般的なサービスでもすごい勢いでワンタイムパスワードによる二段階認証が普及しています。</p>
+
+
+
+<p>　二段階認証で幅広く使われている方式は、下記となります：</p>
+
+
+
+<ol><li>トークン(認証専用ハードウェア)による認証</li><li>携帯電話・スマホのSMSによる認証</li><li><mark>スマホの認証アプリによる認証</mark>(これが当記事のテーマです)</li></ol>
+
+
+
+<p>　これらの方式をセキュリティ用語では『<strong>MFAデバイス</strong>』、特にスマホアプリによる方式を『<strong>仮想MFAデバイス</strong>』と呼びます。MFAはMulti-Factor Authenticationの略で、直訳すると『多要素認証』となります。</p>
+
+
+
+<p>　個人サイトではトークンやSMSによる認証は難しいので、3.の『<strong>スマホの認証アプリによる認証</strong>』に頼ることとなります。しかし、予備知識がないと「<strong>認証アプリってなに？</strong>」「<strong>どの認証アプリを使えばいいの？</strong>」と頭がはてなマークで埋め尽くされてしまいます。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>ワンタイムパスワードには共通規格がある(RFC 6238 &#8211; TOTP)</h2>
+
+
+
+<p>　結論から申し上げると、二段階認証で使われるワンタイムパスワードの方式には共通規格があります。『<strong>RFC 6238 &#8211; TOTP: Time-Based One-Time Password Algorithm</strong>』というもので、ざっくり言うとSSLなどと同じレベルです。</p>
+
+
+
+<p>　従って、AWSやWordPressに二段階認証を入れようと思ったら、まず最初にやることは『<strong>TOTP対応の認証アプリ</strong>』のインストールです。「TOTP対応なら、どれでも良い」ということです。Googleで検索してみると、下記のような認証アプリがヒットします：</p>
+
+
+
+<ul><li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;hl=ja&amp;gl=US" target="_blank" rel="noreferrer noopener">Google 認証システム &#8211; Google Play のアプリ</a></li><li><a href="https://apps.apple.com/jp/app/microsoft-authenticator/id983156458" target="_blank" rel="noreferrer noopener">Microsoft Authenticator &#8211; App Storeプレビュー</a></li><li><a href="https://www.iij.ad.jp/smartkey/" target="_blank" rel="noreferrer noopener">IIJ SmartKey｜スライド認証・ワンタイムパスワード管理</a></li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>注意点①　アプリ認証はSMS認証に依存している</h2>
+
+
+
+<p>　実際に認証アプリを使う前に、絶対に確認しておくべきことがあります。<span style="text-decoration: underline;">スマホをなくしたり壊したりしてしまったら、アプリ認証も出来なくなってしまいます</span>。従って、二段階認証を入れる前に、必ず<strong>認証アプリの機種変更方法</strong>を把握しておかなければいけません。私が使っているIIJ SmartKeyで機種変更を行うための本人確認は、<strong>SMS認証</strong>を用いています：</p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item"><img srcset="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA3.png?strip=info&#038;w=600&#038;ssl=1 600w,https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA3.png?strip=info&#038;w=900&#038;ssl=1 900w,https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA3.png?strip=info&#038;w=1200&#038;ssl=1 1200w,https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA3.png?strip=info&#038;w=1300&#038;ssl=1 1300w" alt="" data-height="1300" data-id="450" data-link="/?attachment_id=450" data-url="/wp-content/uploads/2021/05/MFA3.png" data-width="750" src="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA3.png?ssl=1" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item"><img srcset="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA4.png?strip=info&#038;w=600&#038;ssl=1 600w,https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA4.png?strip=info&#038;w=900&#038;ssl=1 900w,https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA4.png?strip=info&#038;w=1200&#038;ssl=1 1200w,https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA4.png?strip=info&#038;w=1300&#038;ssl=1 1300w" alt="" data-height="1300" data-id="451" data-link="/?attachment_id=451" data-url="/wp-content/uploads/2021/05/MFA4.png" data-width="750" src="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA4.png?ssl=1" data-amp-layout="responsive"/></figure></div></div></div></div>
+
+
+
+<p>　これが意味することは、「<strong>電話番号</strong>を変えてしまったら認証アプリの機種変更が出来なくなり、<span style="text-decoration: underline;">ワンタイムパスワードも最終的には使えなくなる</span>」ということです。アプリによって本人確認の方法は異なる可能性がありますが、頭の片隅に置いておいて下さい。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>注意点②　AWSの二段階認証はルートユーザーとIAMユーザーの両方で必要</h2>
+
+
+
+<p>　セキュリティ重視の方は、AWSでもユーザー登録時に付与される<strong>ルートユーザー</strong>ではなく別途<strong>IAMユーザー</strong>を作成して運用していることも多いかと思います。しかし当然ながら、仮にふだんは使っていないとしても、<span style="text-decoration: underline;">ルートユーザーも二段階認証を入れないとIDパスワードを抜かれたら終わり</span>です。</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="726" height="598" src="https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA5.png?resize=726%2C598&#038;ssl=1" alt="" class="wp-image-452" srcset="https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA5.png?w=726&amp;ssl=1 726w, https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA5.png?resize=300%2C247&amp;ssl=1 300w" sizes="(max-width: 726px) 100vw, 726px" data-recalc-dims="1" /><figcaption>ルートユーザーに二段階認証を入れるメニューは『マイセキュリティ資格情報』(2021年5月現在)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="406" src="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA6.png?resize=750%2C406&#038;ssl=1" alt="" class="wp-image-453" srcset="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA6.png?resize=1024%2C555&amp;ssl=1 1024w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA6.png?resize=300%2C163&amp;ssl=1 300w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA6.png?resize=768%2C416&amp;ssl=1 768w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA6.png?resize=1536%2C832&amp;ssl=1 1536w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA6.png?resize=2048%2C1110&amp;ssl=1 2048w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA6.png?resize=1568%2C850&amp;ssl=1 1568w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /><figcaption>AWSの二段階認証は『多要素認証(MFA)』という名称</figcaption></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>注意点③　WordPress自体にも二段階認証を入れないと意味がない</h2>
+
+
+
+<p>　WordPressは一般的にブログなどを公開するウェブサイトと同じサーバーに管理画面があり、ウェブ上で記事を編集します。WordPressは5.xの時点では<span style="text-decoration: underline;">本体に二段階認証の機能がない</span>ため、サードパーティーの認証プラグインを入れる必要があります。WordPress 6.xでは絶対に改善してもらわないと困る状況ですが、いま出来ることとして<a href="https://wordpress.org/plugins/wordfence/" target="_blank" rel="noreferrer noopener">Wordfence Security – Firewall &amp; Malware Scan</a>を入れています。</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="516" src="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA7.png?resize=750%2C516&#038;ssl=1" alt="" class="wp-image-455" srcset="https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA7.png?resize=1024%2C705&amp;ssl=1 1024w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA7.png?resize=300%2C207&amp;ssl=1 300w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA7.png?resize=768%2C529&amp;ssl=1 768w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA7.png?resize=1536%2C1057&amp;ssl=1 1536w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA7.png?resize=1568%2C1079&amp;ssl=1 1568w, https://i2.wp.com/can.ne.jp/wp-content/uploads/2021/05/MFA7.png?w=1938&amp;ssl=1 1938w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /></figure>
+
+
+
+<p>　正直、CMS全体の動作に大きな影響を与えるセキュリティ関連でサードパーティーのプラグインを入れるのは怖いので、「<strong>インスタンスのバックアップ</strong>を取った上で恐る恐る入れている」というのが本音です。</p>
+
+
+
+<p>　私自身は無職でノマド()なのでWordPressに接続するIPアドレスを固定するのが難しい状況ですが、企業ユーザーの方などで<strong>IPアドレスの固定</strong>が可能な方は、<span style="text-decoration: underline;">IPアドレスの指定による管理画面へのアクセス制限</span>が可能かどうか、併せてご検討されるのがよろしいかと思います。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>まだの方は今すぐ始めて下さい</h2>
+
+
+
+<p>　正直、情報セキュリティ関連の投稿は、自分の手口を明かしてしまう上に本職のエンジニア様などによる<strong>恐ろしいマサカリ</strong>にも晒されているので「書きたくない<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f62d.png" alt="😭" class="wp-smiley" style="height: 1em; max-height: 1em;" />」のが本音です。</p>
+
+
+
+<p>　しかし、非エンジニアの方が多く利用しているWordPressがセキュリティ面で脆弱な状況に置かれている現状は非常にまずいと感じたため、敢えて二段階認証の投稿をするという決断をしました。</p>
+
+
+
+<p>　このような状況ですので、セキュリティが本職の皆さまが当記事に問題を発見した場合は、何卒、優しくご指摘ください。<a href="/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/" target="_blank" rel="noreferrer noopener">ご指摘</a>そのものは、当サイトのセキュリティ改善につながるので歓迎です。</p>
+		<div class="wpulike wpulike-default " ><div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="いいねボタン"
+					data-ulike-id="440"
+					data-ulike-nonce="7072ef1697"
+					data-ulike-type="post"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_image wp_post_btn_440"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>			</div></div>
+	<p><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=%2F2021%2F05%2F26%2Fawswordpress%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e8%2581%259e%25e3%2581%2591%25e3%2581%25aa%25e3%2581%2584%25e4%25ba%258c%25e6%25ae%25b5%25e9%259a%258e%25e8%25aa%258d%25e8%25a8%25bcmfa%25e3%2583%2587%25e3%2583%2590%25e3%2582%25a4%25e3%2582%25b9%25e3%2581%25a7%25e3%2581%25ae%25e3%2582%25bb%25e3%2582%25ad%2F&amp;linkname=%5BAWS%2BWordPress%5D%E4%BB%8A%E3%81%95%E3%82%89%E8%81%9E%E3%81%91%E3%81%AA%E3%81%84%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC%28MFA%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%29%E3%81%A7%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%BC%B7%E5%8C%96" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=%2F2021%2F05%2F26%2Fawswordpress%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e8%2581%259e%25e3%2581%2591%25e3%2581%25aa%25e3%2581%2584%25e4%25ba%258c%25e6%25ae%25b5%25e9%259a%258e%25e8%25aa%258d%25e8%25a8%25bcmfa%25e3%2583%2587%25e3%2583%2590%25e3%2582%25a4%25e3%2582%25b9%25e3%2581%25a7%25e3%2581%25ae%25e3%2582%25bb%25e3%2582%25ad%2F&amp;linkname=%5BAWS%2BWordPress%5D%E4%BB%8A%E3%81%95%E3%82%89%E8%81%9E%E3%81%91%E3%81%AA%E3%81%84%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC%28MFA%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%29%E3%81%A7%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%BC%B7%E5%8C%96" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=%2F2021%2F05%2F26%2Fawswordpress%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e8%2581%259e%25e3%2581%2591%25e3%2581%25aa%25e3%2581%2584%25e4%25ba%258c%25e6%25ae%25b5%25e9%259a%258e%25e8%25aa%258d%25e8%25a8%25bcmfa%25e3%2583%2587%25e3%2583%2590%25e3%2582%25a4%25e3%2582%25b9%25e3%2581%25a7%25e3%2581%25ae%25e3%2582%25bb%25e3%2582%25ad%2F&amp;linkname=%5BAWS%2BWordPress%5D%E4%BB%8A%E3%81%95%E3%82%89%E8%81%9E%E3%81%91%E3%81%AA%E3%81%84%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC%28MFA%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%29%E3%81%A7%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%BC%B7%E5%8C%96" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=%2F2021%2F05%2F26%2Fawswordpress%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e8%2581%259e%25e3%2581%2591%25e3%2581%25aa%25e3%2581%2584%25e4%25ba%258c%25e6%25ae%25b5%25e9%259a%258e%25e8%25aa%258d%25e8%25a8%25bcmfa%25e3%2583%2587%25e3%2583%2590%25e3%2582%25a4%25e3%2582%25b9%25e3%2581%25a7%25e3%2581%25ae%25e3%2582%25bb%25e3%2582%25ad%2F&amp;linkname=%5BAWS%2BWordPress%5D%E4%BB%8A%E3%81%95%E3%82%89%E8%81%9E%E3%81%91%E3%81%AA%E3%81%84%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC%28MFA%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%29%E3%81%A7%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%BC%B7%E5%8C%96" title="Facebook Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=%2F2021%2F05%2F26%2Fawswordpress%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e8%2581%259e%25e3%2581%2591%25e3%2581%25aa%25e3%2581%2584%25e4%25ba%258c%25e6%25ae%25b5%25e9%259a%258e%25e8%25aa%258d%25e8%25a8%25bcmfa%25e3%2583%2587%25e3%2583%2590%25e3%2582%25a4%25e3%2582%25b9%25e3%2581%25a7%25e3%2581%25ae%25e3%2582%25bb%25e3%2582%25ad%2F&amp;linkname=%5BAWS%2BWordPress%5D%E4%BB%8A%E3%81%95%E3%82%89%E8%81%9E%E3%81%91%E3%81%AA%E3%81%84%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC%28MFA%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%29%E3%81%A7%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%BC%B7%E5%8C%96" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=%2F2021%2F05%2F26%2Fawswordpress%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e8%2581%259e%25e3%2581%2591%25e3%2581%25aa%25e3%2581%2584%25e4%25ba%258c%25e6%25ae%25b5%25e9%259a%258e%25e8%25aa%258d%25e8%25a8%25bcmfa%25e3%2583%2587%25e3%2583%2590%25e3%2582%25a4%25e3%2582%25b9%25e3%2581%25a7%25e3%2581%25ae%25e3%2582%25bb%25e3%2582%25ad%2F&#038;title=%5BAWS%2BWordPress%5D%E4%BB%8A%E3%81%95%E3%82%89%E8%81%9E%E3%81%91%E3%81%AA%E3%81%84%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC%28MFA%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%29%E3%81%A7%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%BC%B7%E5%8C%96" data-a2a-url="/2021/05/26/awswordpress%e4%bb%8a%e3%81%95%e3%82%89%e8%81%9e%e3%81%91%e3%81%aa%e3%81%84%e4%ba%8c%e6%ae%b5%e9%9a%8e%e8%aa%8d%e8%a8%bcmfa%e3%83%87%e3%83%90%e3%82%a4%e3%82%b9%e3%81%a7%e3%81%ae%e3%82%bb%e3%82%ad/" data-a2a-title="[AWS+WordPress]今さら聞けない二段階認証(MFAデバイス)でのセキュリティ強化"></a></p><p>The post <a href="/2021/05/26/awswordpress%e4%bb%8a%e3%81%95%e3%82%89%e8%81%9e%e3%81%91%e3%81%aa%e3%81%84%e4%ba%8c%e6%ae%b5%e9%9a%8e%e8%aa%8d%e8%a8%bcmfa%e3%83%87%e3%83%90%e3%82%a4%e3%82%b9%e3%81%a7%e3%81%ae%e3%82%bb%e3%82%ad/">[AWS+WordPress]今さら聞けない二段階認証(MFAデバイス)でのセキュリティ強化</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/2021/05/26/awswordpress%e4%bb%8a%e3%81%95%e3%82%89%e8%81%9e%e3%81%91%e3%81%aa%e3%81%84%e4%ba%8c%e6%ae%b5%e9%9a%8e%e8%aa%8d%e8%a8%bcmfa%e3%83%87%e3%83%90%e3%82%a4%e3%82%b9%e3%81%a7%e3%81%ae%e3%82%bb%e3%82%ad/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">440</post-id>	</item>
+	</channel>
+</rss>
