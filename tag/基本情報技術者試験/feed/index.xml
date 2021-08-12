@@ -15,14 +15,101 @@
 	<atom:link href="/tag/%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Cross the cliffs of the times</description>
-	<lastBuildDate>Sat, 26 Jun 2021 16:14:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Jul 2021 05:24:07 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 <site xmlns="com-wordpress:feed-additions:1">191177362</site>	<item>
+		<title>基本情報技術者試験(FE)の合格を確認しました</title>
+		<link>/2021/07/29/%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe%e3%81%ae%e5%90%88%e6%a0%bc%e3%82%92%e7%a2%ba%e8%aa%8d%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%25e3%2581%25ae%25e5%2590%2588%25e6%25a0%25bc%25e3%2582%2592%25e7%25a2%25ba%25e8%25aa%258d%25e3%2581%2597%25e3%2581%25be%25e3%2581%2597%25e3%2581%259f</link>
+					<comments>/2021/07/29/%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe%e3%81%ae%e5%90%88%e6%a0%bc%e3%82%92%e7%a2%ba%e8%aa%8d%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[masaru]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 05:24:03 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[基本情報技術者試験]]></category>
+		<guid isPermaLink="false">/?p=543</guid>
+
+					<description><![CDATA[<p>合格発表まで1ヶ月待たされる 　2021年の6月に受験した『基本情報技術者試験』（受験までの顛末は「40代後半のおじさんが今さら基本情報技術者試験(FE)を受けた理由」参照）ですが、受験から1ヶ月以上経った7月29日によ&#8230; <a class="more-link" href="/2021/07/29/%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe%e3%81%ae%e5%90%88%e6%a0%bc%e3%82%92%e7%a2%ba%e8%aa%8d%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/">続きを読む <span class="screen-reader-text">基本情報技術者試験(FE)の合格を確認しました</span></a></p>
+<p>The post <a href="/2021/07/29/%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe%e3%81%ae%e5%90%88%e6%a0%bc%e3%82%92%e7%a2%ba%e8%aa%8d%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/">基本情報技術者試験(FE)の合格を確認しました</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2>合格発表まで1ヶ月待たされる</h2>
+
+
+
+<p>　2021年の6月に受験した『基本情報技術者試験』（受験までの顛末は「<a href="/2021/06/26/40%e4%bb%a3%e5%be%8c%e5%8d%8a%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%81%8c%e4%bb%8a%e3%81%95%e3%82%89%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe/" target="_blank" rel="noreferrer noopener">40代後半のおじさんが今さら基本情報技術者試験(FE)を受けた理由</a>」参照）ですが、<mark>受験から1ヶ月以上経った7月29日にようやく合格発表がありました</mark>。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>結果は『合格』。これで『エンジニア』を名乗れる（名乗らないけど）</h2>
+
+
+
+<p>　プロメトリックのスコアレポートからほぼほぼ合格なことは即日で確認済でしたが、結果は『合格』となりました。</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="422" src="https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/07/FE.png?resize=750%2C422&#038;ssl=1" alt="情報処理技術者試験・情報処理安全確保支援士試験 合格者受験番号" class="wp-image-544" srcset="https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/07/FE.png?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/07/FE.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/07/FE.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/can.ne.jp/wp-content/uploads/2021/07/FE.png?w=1200&amp;ssl=1 1200w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /><figcaption>『 基本情報技術者試験 』受験から1ヶ月以上経った7月29日にようやく合格発表がありました</figcaption></figure>
+
+
+
+<p>　私は元ウェブ担当者でありディレクター的な立場なので、決してシステムエンジニアではありません。年齢的に今からエンジニアを目指すのは現実的でないことも過去の記事で明記しています。</p>
+
+
+
+<p>　しかし、<mark>他業種からの未経験転職者が1～2ヶ月で取得出来てしまう『<a href="https://www3.jitec.ipa.go.jp/JitesCbt/index.html" target="_blank" rel="noreferrer noopener">ITパスポート</a>』レベルの方とは実務経験や知識量が違う</mark>ことを証明するため、今のタイミングで基本情報を取得することはどうしても必要なことでした。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>40代後半の非エンジニアにとっての『合格』の意味</h2>
+
+
+
+<p>　基本情報技術者試験(FE)は経済産業省の国家資格ですが、IT業界の新卒が入社2～3年以内に取るようなレベルのものです。<br>　スキルアップを確認するというよりは、むしろ『40代後半』という年齢で「<mark>まだ現役の知識を維持している</mark>」ことを証明する手段のひとつ、との認識です。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>そして、終わりがない加齢との戦いへ……</h2>
+
+
+
+<p>　先の記事でも指摘しているとおり、基本情報技術者試験(FE)は決して「時代遅れの試験」ではありませんが、クラウドやデータベースなどベンダー固有の知識や実務能力を証明するものではありません。そうした意味では「<mark>有意義だがnot enough</mark>」な資格です。　</p>
+
+
+
+<p>　今後、クラウドやデータベースなどの資格も追加で取得したいと考えています。これらは有効期限がある資格なので、<mark>終わりがない加齢との戦い</mark>になります……。</p>
+		<div class="wpulike wpulike-default " ><div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="いいねボタン"
+					data-ulike-id="543"
+					data-ulike-nonce="27bc80d878"
+					data-ulike-type="post"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_image wp_post_btn_543"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>			</div></div>
+	<p><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=%2F2021%2F07%2F29%2F%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%25e3%2581%25ae%25e5%2590%2588%25e6%25a0%25bc%25e3%2582%2592%25e7%25a2%25ba%25e8%25aa%258d%25e3%2581%2597%25e3%2581%25be%25e3%2581%2597%25e3%2581%259f%2F&amp;linkname=%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%81%AE%E5%90%88%E6%A0%BC%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=%2F2021%2F07%2F29%2F%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%25e3%2581%25ae%25e5%2590%2588%25e6%25a0%25bc%25e3%2582%2592%25e7%25a2%25ba%25e8%25aa%258d%25e3%2581%2597%25e3%2581%25be%25e3%2581%2597%25e3%2581%259f%2F&amp;linkname=%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%81%AE%E5%90%88%E6%A0%BC%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=%2F2021%2F07%2F29%2F%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%25e3%2581%25ae%25e5%2590%2588%25e6%25a0%25bc%25e3%2582%2592%25e7%25a2%25ba%25e8%25aa%258d%25e3%2581%2597%25e3%2581%25be%25e3%2581%2597%25e3%2581%259f%2F&amp;linkname=%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%81%AE%E5%90%88%E6%A0%BC%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=%2F2021%2F07%2F29%2F%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%25e3%2581%25ae%25e5%2590%2588%25e6%25a0%25bc%25e3%2582%2592%25e7%25a2%25ba%25e8%25aa%258d%25e3%2581%2597%25e3%2581%25be%25e3%2581%2597%25e3%2581%259f%2F&amp;linkname=%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%81%AE%E5%90%88%E6%A0%BC%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=%2F2021%2F07%2F29%2F%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%25e3%2581%25ae%25e5%2590%2588%25e6%25a0%25bc%25e3%2582%2592%25e7%25a2%25ba%25e8%25aa%258d%25e3%2581%2597%25e3%2581%25be%25e3%2581%2597%25e3%2581%259f%2F&amp;linkname=%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%81%AE%E5%90%88%E6%A0%BC%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=%2F2021%2F07%2F29%2F%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%25e3%2581%25ae%25e5%2590%2588%25e6%25a0%25bc%25e3%2582%2592%25e7%25a2%25ba%25e8%25aa%258d%25e3%2581%2597%25e3%2581%25be%25e3%2581%2597%25e3%2581%259f%2F&#038;title=%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%81%AE%E5%90%88%E6%A0%BC%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F" data-a2a-url="/2021/07/29/%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe%e3%81%ae%e5%90%88%e6%a0%bc%e3%82%92%e7%a2%ba%e8%aa%8d%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/" data-a2a-title="基本情報技術者試験(FE)の合格を確認しました"></a></p><p>The post <a href="/2021/07/29/%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe%e3%81%ae%e5%90%88%e6%a0%bc%e3%82%92%e7%a2%ba%e8%aa%8d%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/">基本情報技術者試験(FE)の合格を確認しました</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/29/%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe%e3%81%ae%e5%90%88%e6%a0%bc%e3%82%92%e7%a2%ba%e8%aa%8d%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543</post-id>	</item>
+		<item>
 		<title>40代後半のおじさんが今さら基本情報技術者試験(FE)を受けた理由</title>
 		<link>/2021/06/26/40%e4%bb%a3%e5%be%8c%e5%8d%8a%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%81%8c%e4%bb%8a%e3%81%95%e3%82%89%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe</link>
 					<comments>/2021/06/26/40%e4%bb%a3%e5%be%8c%e5%8d%8a%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%81%8c%e4%bb%8a%e3%81%95%e3%82%89%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe/#respond</comments>
@@ -148,7 +235,7 @@
 
 
 
-<p>　特に、機械学習やデータ分析などでPythonを覚える機会があった方は、話のネタにPythonで午後試験を受けてみてはいかがでしょうか。長いコードが出てはきますが、選択式で「コードが書けず苦しむ」といった要素はないので安心してください<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f40d.png" alt="🐍" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>　特に、機械学習やデータ分析などでPythonを覚える機会があった方は、話のネタにPythonで午後試験を受けてみてはいかがでしょうか。長いコードが出てはきますが、選択式で「コードが書けず苦しむ」といった要素はないので安心してください<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f40d.png" alt="🐍" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -188,13 +275,13 @@
 		<div class="wpulike wpulike-default " ><div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
 					aria-label="いいねボタン"
 					data-ulike-id="476"
-					data-ulike-nonce="2b86cc6e80"
+					data-ulike-nonce="cca5c24b11"
 					data-ulike-type="post"
 					data-ulike-template="wpulike-default"
 					data-ulike-display-likers=""
 					data-ulike-likers-style="popover"
 					class="wp_ulike_btn wp_ulike_put_image wp_post_btn_476"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>			</div></div>
-	<p><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&amp;linkname=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&amp;linkname=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&amp;linkname=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&amp;linkname=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" title="Facebook Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&amp;linkname=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&#038;title=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" data-a2a-url="/2021/06/26/40%e4%bb%a3%e5%be%8c%e5%8d%8a%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%81%8c%e4%bb%8a%e3%81%95%e3%82%89%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe/" data-a2a-title="40代後半のおじさんが今さら基本情報技術者試験(FE)を受けた理由"></a></p><p>The post <a href="/2021/06/26/40%e4%bb%a3%e5%be%8c%e5%8d%8a%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%81%8c%e4%bb%8a%e3%81%95%e3%82%89%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe/">40代後半のおじさんが今さら基本情報技術者試験(FE)を受けた理由</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></content:encoded>
+	<p><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&amp;linkname=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&amp;linkname=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&amp;linkname=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&amp;linkname=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&amp;linkname=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=%2F2021%2F06%2F26%2F40%25e4%25bb%25a3%25e5%25be%258c%25e5%258d%258a%25e3%2581%25ae%25e3%2581%258a%25e3%2581%2598%25e3%2581%2595%25e3%2582%2593%25e3%2581%258c%25e4%25bb%258a%25e3%2581%2595%25e3%2582%2589%25e5%259f%25ba%25e6%259c%25ac%25e6%2583%2585%25e5%25a0%25b1%25e6%258a%2580%25e8%25a1%2593%25e8%2580%2585%25e8%25a9%25a6%25e9%25a8%2593fe%2F&#038;title=40%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%AE%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%8C%E4%BB%8A%E3%81%95%E3%82%89%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%28FE%29%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E7%90%86%E7%94%B1" data-a2a-url="/2021/06/26/40%e4%bb%a3%e5%be%8c%e5%8d%8a%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%81%8c%e4%bb%8a%e3%81%95%e3%82%89%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe/" data-a2a-title="40代後半のおじさんが今さら基本情報技術者試験(FE)を受けた理由"></a></p><p>The post <a href="/2021/06/26/40%e4%bb%a3%e5%be%8c%e5%8d%8a%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%81%8c%e4%bb%8a%e3%81%95%e3%82%89%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe/">40代後半のおじさんが今さら基本情報技術者試験(FE)を受けた理由</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>/2021/06/26/40%e4%bb%a3%e5%be%8c%e5%8d%8a%e3%81%ae%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%81%8c%e4%bb%8a%e3%81%95%e3%82%89%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93fe/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

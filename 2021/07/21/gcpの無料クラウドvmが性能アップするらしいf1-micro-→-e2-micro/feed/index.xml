@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	GCPの無料クラウドVMが性能アップするらしい(F1-Micro  → E2-Micro) へのコメント	</title>
+	<atom:link href="/2021/07/21/gcp%E3%81%AE%E7%84%A1%E6%96%99%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89vm%E3%81%8C%E6%80%A7%E8%83%BD%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84f1-micro-%E2%86%92-e2-micro/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gcp%25e3%2581%25ae%25e7%2584%25a1%25e6%2596%2599%25e3%2582%25af%25e3%2583%25a9%25e3%2582%25a6%25e3%2583%2589vm%25e3%2581%258c%25e6%2580%25a7%25e8%2583%25bd%25e3%2582%25a2%25e3%2583%2583%25e3%2583%2597%25e3%2581%2599%25e3%2582%258b%25e3%2582%2589%25e3%2581%2597%25e3%2581%2584f1-micro-%25e2%2586%2592-e2-micro</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Sun, 08 Aug 2021 09:00:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		masaru より		</title>
+		<link>/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/#comment-17</link>
+
+		<dc:creator><![CDATA[masaru]]></dc:creator>
+		<pubDate>Sun, 08 Aug 2021 09:00:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=537#comment-17</guid>
+
+					<description><![CDATA[&lt;a href=&quot;/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/#comment-16&quot;&gt;k&lt;/a&gt; への返信。
+
+kさん、続報ありがとうございます。
+
+ブロガーは、この手の『お得情報』はアクセスが多いので載せたがりますが
+実際に使いこなしているかは怪しいところですね<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4a6.png" alt="💦" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+
+当サイトのLightSailインスタンスより高性能なので「立てて放置」はもったいないですし
+せっかくの機会なので使い倒したいところです。
+
+GCPの無料インスタンスでは、Google Mobilityなどの統計データを他の時系列データと
+組み合わせて分析予測をするようなサイトを立てたいと思っています。GCPなのでBQ連携もやってみたいですね。]]></description>
+			<content:encoded><![CDATA[<p><a href="/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/#comment-16">k</a> への返信。</p>
+<p>kさん、続報ありがとうございます。</p>
+<p>ブロガーは、この手の『お得情報』はアクセスが多いので載せたがりますが<br />
+実際に使いこなしているかは怪しいところですね💦</p>
+<p>当サイトのLightSailインスタンスより高性能なので「立てて放置」はもったいないですし<br />
+せっかくの機会なので使い倒したいところです。</p>
+<p>GCPの無料インスタンスでは、Google Mobilityなどの統計データを他の時系列データと<br />
+組み合わせて分析予測をするようなサイトを立てたいと思っています。GCPなのでBQ連携もやってみたいですね。		</p>
+<div class="wpulike wpulike-default ">
+<div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="いいねボタン"
+					data-ulike-id="17"
+					data-ulike-nonce="42f78f740d"
+					data-ulike-type="comment"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_image wp_comment_btn_17"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>			</div>
+</div>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		k より		</title>
+		<link>/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/#comment-16</link>
+
+		<dc:creator><![CDATA[k]]></dc:creator>
+		<pubDate>Sun, 08 Aug 2021 06:55:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=537#comment-16</guid>
+
+					<description><![CDATA[私の方で直接GCPに確認しました、私もあっという間に5円を超えたので。。
+するとどうも特定のリージョンでプロモーション設定に問題があったようで課金表がバグっていたみたいです。8/1～8/4の間にインシデントが発生しており現時点では料金表の修正が完全に終了しており今後料金は発生しないとのこと。ただし、米国のサマータイムなどの影響を受けて\1くらいの請求は発生するかもしれません。
+
+以下に障害のURLを記載させていただきます。英文ですので
+翻訳ツールをご利用ください。
+
+https://status.cloud.google.com/incidents/LGFBxyLwbh92E47fAzJ5
+
+一応、GCP側にはもう課金されない旨を言質とりました（笑
+問題なくご利用いただけますとのこと（あせりました
+
+しかし、GCPの無料枠が変更になったにも関わらず他の
+紹介サイトではなにも検知していないのですね。みなさん
+お気づきにならないのかなと不思議に思います。]]></description>
+			<content:encoded><![CDATA[<p>私の方で直接GCPに確認しました、私もあっという間に5円を超えたので。。<br />
+するとどうも特定のリージョンでプロモーション設定に問題があったようで課金表がバグっていたみたいです。8/1～8/4の間にインシデントが発生しており現時点では料金表の修正が完全に終了しており今後料金は発生しないとのこと。ただし、米国のサマータイムなどの影響を受けて\1くらいの請求は発生するかもしれません。</p>
+<p>以下に障害のURLを記載させていただきます。英文ですので<br />
+翻訳ツールをご利用ください。</p>
+<p><a href="https://status.cloud.google.com/incidents/LGFBxyLwbh92E47fAzJ5" rel="nofollow ugc">https://status.cloud.google.com/incidents/LGFBxyLwbh92E47fAzJ5</a></p>
+<p>一応、GCP側にはもう課金されない旨を言質とりました（笑<br />
+問題なくご利用いただけますとのこと（あせりました</p>
+<p>しかし、GCPの無料枠が変更になったにも関わらず他の<br />
+紹介サイトではなにも検知していないのですね。みなさん<br />
+お気づきにならないのかなと不思議に思います。		</p>
+<div class="wpulike wpulike-default ">
+<div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="いいねボタン"
+					data-ulike-id="16"
+					data-ulike-nonce="18aa685a08"
+					data-ulike-type="comment"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_image wp_comment_btn_16"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>			</div>
+</div>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		masaru より		</title>
+		<link>/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/#comment-15</link>
+
+		<dc:creator><![CDATA[masaru]]></dc:creator>
+		<pubDate>Fri, 06 Aug 2021 04:13:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=537#comment-15</guid>
+
+					<description><![CDATA[&lt;a href=&quot;/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/#comment-14&quot;&gt;K&lt;/a&gt; への返信。
+
+Kさん、コメントありがとうございます<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+
+私のアカウントでも何故か1円課金されていました<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4a6.png" alt="💦" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+今月の予想合計費用が5円となっているので、しばらく様子を見ながら使ってみることにします。]]></description>
+			<content:encoded><![CDATA[<p><a href="/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/#comment-14">K</a> への返信。</p>
+<p>Kさん、コメントありがとうございます😀</p>
+<p>私のアカウントでも何故か1円課金されていました💦<br />
+今月の予想合計費用が5円となっているので、しばらく様子を見ながら使ってみることにします。		</p>
+<div class="wpulike wpulike-default ">
+<div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="いいねボタン"
+					data-ulike-id="15"
+					data-ulike-nonce="ab46f53d8e"
+					data-ulike-type="comment"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_image wp_comment_btn_15"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>			</div>
+</div>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		K より		</title>
+		<link>/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/#comment-14</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Thu, 05 Aug 2021 13:38:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=537#comment-14</guid>
+
+					<description><![CDATA[実は私もそのメールに気づいて英文でGoogleのオペレーターと会話して確かなのか確認し裏を取ってから8\2くらいにe2-microに変更したのですがいきなり請求額が1円超えたので即座にインスタンス停止しました。どうして請求額が発生しているのかもう一度オペレーターに問い合わせしてみたいと思います。]]></description>
+			<content:encoded><![CDATA[<p>実は私もそのメールに気づいて英文でGoogleのオペレーターと会話して確かなのか確認し裏を取ってから8\2くらいにe2-microに変更したのですがいきなり請求額が1円超えたので即座にインスタンス停止しました。どうして請求額が発生しているのかもう一度オペレーターに問い合わせしてみたいと思います。		</p>
+<div class="wpulike wpulike-default ">
+<div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="いいねボタン"
+					data-ulike-id="14"
+					data-ulike-nonce="82aed93091"
+					data-ulike-type="comment"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_image wp_comment_btn_14"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>			</div>
+</div>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

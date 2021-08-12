@@ -1001,7 +1001,7 @@ Warning: This file is not mean to be edited. Please put your custom CSS into you
     background-color: rgba(0, 0, 0, .75) !important;
 }
 
-.flowplayer { margin: 0 auto 2.8em auto; display: block; max-width: 100%; }
+.flowplayer { margin: 0 auto 2.8em auto; display: block; max-width: 100%; white-space: normal }
 .flowplayer.has-caption { margin: 0 auto; }
 .flowplayer.fixed-controls.has-caption, flowplayer.fixed-controls.has-caption * { margin-bottom: 2.8em; }
 .flowplayer.fixed-controls, .entry-content .flowplayer.fixed-controls { margin-bottom: 5.2em }
@@ -2215,8 +2215,8 @@ body.fv_flowplayer_tabs_hide .fv_flowplayer_tabs_content > div.fv_flowplayer_tab
   top: 0;
   left: 0;
   width: 45%;
-  height: 100%;
-  margin-top: 20%;
+  height: calc( 100% - 6em );
+  margin: 3em 0;
   position: absolute;
   -webkit-tap-highlight-color:  rgba(255, 255, 255, 0);
   -webkit-touch-callout: none;
@@ -2232,6 +2232,8 @@ body.fv_flowplayer_tabs_hide .fv_flowplayer_tabs_content > div.fv_flowplayer_tab
 .flowplayer .fv-fp-tap-right span {
   font-size: 1.5em;
   opacity: 0;
+  position: relative;
+  top: 25%;
 }
 .flowplayer .fv-fp-tap-left.is-active span,
 .flowplayer .fv-fp-tap-right.is-active span {
@@ -2242,7 +2244,7 @@ body.fv_flowplayer_tabs_hide .fv_flowplayer_tabs_content > div.fv_flowplayer_tab
   50% { opacity: 1; }
   100% { opacity: 0; }
 }
-/*CSS writeout performed on FV Flowplayer Settings save  on Thu, 24 Jun 2021 02:36:39 +0000*/
+/*CSS writeout performed on FV Flowplayer Settings save  on Tue, 10 Aug 2021 20:50:02 +0000*/
 .flowplayer.skin-slim { background-color: #000000 !important; }
 .flowplayer.skin-slim .fp-color, .flowplayer.skin-slim .fp-selected, .fp-playlist-external.skin-slim .fvp-progress { background-color: #bb0000 !important; }
 .flowplayer.skin-slim .fp-color-fill .svg-color, .flowplayer.skin-slim .fp-color-fill svg.fvp-icon, .flowplayer.skin-slim .fp-color-fill { fill: #bb0000 !important; color: #bb0000 !important; }

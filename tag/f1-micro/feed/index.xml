@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>F1-Micro - MasaruのIT＆マーケティングBLOG | Info Tech &amp; Marketing BLOG by Masaru</title>
+	<atom:link href="/tag/f1-micro/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cross the cliffs of the times</description>
+	<lastBuildDate>Mon, 02 Aug 2021 04:26:40 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">191177362</site>	<item>
+		<title>GCPの無料クラウドVMが性能アップするらしい(F1-Micro  → E2-Micro)</title>
+		<link>/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gcp%25e3%2581%25ae%25e7%2584%25a1%25e6%2596%2599%25e3%2582%25af%25e3%2583%25a9%25e3%2582%25a6%25e3%2583%2589vm%25e3%2581%258c%25e6%2580%25a7%25e8%2583%25bd%25e3%2582%25a2%25e3%2583%2583%25e3%2583%2597%25e3%2581%2599%25e3%2582%258b%25e3%2582%2589%25e3%2581%2597%25e3%2581%2584f1-micro-%25e2%2586%2592-e2-micro</link>
+					<comments>/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/#comments</comments>
+		
+		<dc:creator><![CDATA[masaru]]></dc:creator>
+		<pubDate>Wed, 21 Jul 2021 09:58:41 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[データ分析]]></category>
+		<category><![CDATA[E2-Micro]]></category>
+		<category><![CDATA[F1-Micro]]></category>
+		<category><![CDATA[GCP]]></category>
+		<category><![CDATA[Google Cloud Platform]]></category>
+		<guid isPermaLink="false">/?p=537</guid>
+
+					<description><![CDATA[<p>突然GCPからメールが届いた 　突然GCP(Google Cloud Platform)からメールが届きました。Googleからなので「またセキュリティ警告かよ」とびっくりして開いたところ、なんと「無料枠のVM(仮想サー&#8230; <a class="more-link" href="/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/">続きを読む <span class="screen-reader-text">GCPの無料クラウドVMが性能アップするらしい(F1-Micro  → E2-Micro)</span></a></p>
+<p>The post <a href="/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/">GCPの無料クラウドVMが性能アップするらしい(F1-Micro  → E2-Micro)</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2>突然GCPからメールが届いた</h2>
+
+
+
+<p>　突然GCP(Google Cloud Platform)からメールが届きました。Googleからなので「<s>またセキュリティ警告かよ</s>」とびっくりして開いたところ、なんと「無料枠のVM(仮想サーバー)が2021年8月1日からグレードアップするからお引越ししてね」という嬉しい内容。</p>
+
+
+
+<p>　GoogleにはColab Proで月1,072円課金していますが、正直GCPには課金する魅力を感じていませんでした。今回無償のままグレードアップということで、新VMのインスタンス仕様を調べてみました。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>新無料VM『E2-Micro』はメモリ1GBで「まあまあ」</h2>
+
+
+
+<p>　<a href="https://cloud.google.com/compute/vm-instance-pricing?hl=ja#e2_predefined" target="_blank" rel="noreferrer noopener">GCPの料金ページ</a>を見ると、</p>
+
+
+
+<ul><li>2 つの vCPU の 12.5%</li><li>メモリ1GB</li><li>ディスクの記載なし</li></ul>
+
+
+
+<p>というわけで、メモリが1GBでOCIに並んだほかはイマイチよく分かりません。vCPUに関しては、おそらく「ご近所が空いている時は2vCPU使ってくれるが、使いすぎたり混んでいる時にはリソースを減らされる」ということだろうと思います。常時フル稼働する用途でなければ、実質的には2vCPUと考えて良さそうです。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>ディスクは別枠で最大30GBのストレージをアタッチするらしい</h2>
+
+
+
+<p>　ディスクに関する記載がなく<s>相変わらず初心者に不親切だなと</s>困っていたところ、Qiitaで「<a href="https://qiita.com/Brutus/items/22dfd31a681b67837a74#google-cloud-platform-%E3%81%AE%E7%84%A1%E6%96%99%E6%9E%A0" target="_blank" rel="noreferrer noopener">標準永続ディスク ストレージは30 GB まで無料枠内</a>」との記載をみつけました。</p>
+
+
+
+<p>　どうやら、何も考えずに無料枠でVMを立ち上げると10GBのSSDが30GBの枠から割り当てられ、明示的に割り当てを30GBに変更することで30GBがフルで割り当てられるようです。「VMとは別枠だからVM側のスペックには記載がない」ということなのでしょう。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>持っておいて損はなさげ</h2>
+
+
+
+<p>　これまでのGCPの無料枠は「お情け」「お試し」というイメージがありましたが、OCIに近いスペックになったことで「真面目に使ってみてもいいかな」という印象に変わりました。特にAWS LightSailの最安プランよりはハイスペックなので、なんとなくLightSailを使っている人は引っ越した方がシアワセになれそうです。</p>
+
+
+
+<p>　おそらく、VMとストレージを別枠で確保したクラウド構造になっていることで、E2-Microへの引越しもウィザード的に簡単に出来るはずです（ですよねGoogle先生<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4a6.png" alt="💦" class="wp-smiley" style="height: 1em; max-height: 1em;" />）。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>【追記】E2-Microに移行しました</h2>
+
+
+
+<p>　Google先生から告知があった新無料VM開始日の8/1から、時差を考慮して1日遅れの8/2にE2-Microへ移行しました。</p>
+
+
+
+<p>　基本的に作業はマウスポチポチだけですが、さすがに<mark>VMをいったん止めないとインスタンスのグレード変更は出来ません</mark>でした。インスタンスの停止後『編集』をクリックし、『マシンの構成』から『汎用』『E2シリーズ』『マシンタイプ：e2-micro(2 vCPU、1GBメモリ)』を選び、保存。インスタンスを再起動します。</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="569" src="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-1.png?resize=750%2C569&#038;ssl=1" alt="" class="wp-image-551" srcset="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-1.png?resize=1024%2C777&amp;ssl=1 1024w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-1.png?resize=300%2C228&amp;ssl=1 300w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-1.png?resize=768%2C583&amp;ssl=1 768w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-1.png?resize=1536%2C1166&amp;ssl=1 1536w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-1.png?w=1568&amp;ssl=1 1568w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /><figcaption> インスタンスの停止後『編集』をクリックし、『マシンの構成』から『汎用』『E2シリーズ』『マシンタイプ：e2-micro(2 vCPU、1GBメモリ)』を選び、保存。インスタンスを再起動 </figcaption></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2>無事移行。ただし無料かどうかは次の請求まで不明……</h2>
+
+
+
+<p>　インスタンスの変更後、 e2-microのメモリが1GBになっていることを無事確認しました。apacheとPostgreSQLが動いている状態で600MB以上メモリが余っているのは嬉しいですね。</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="750" height="405" src="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-2.png?resize=750%2C405&#038;ssl=1" alt="" class="wp-image-552" srcset="https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-2.png?resize=1024%2C553&amp;ssl=1 1024w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-2.png?resize=300%2C162&amp;ssl=1 300w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-2.png?resize=768%2C415&amp;ssl=1 768w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-2.png?resize=1536%2C829&amp;ssl=1 1536w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-2.png?resize=1568%2C846&amp;ssl=1 1568w, https://i1.wp.com/can.ne.jp/wp-content/uploads/2021/08/new-gcp-vm-e2-micro-2.png?w=1823&amp;ssl=1 1823w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /></figure>
+
+
+
+<p>　しかし、GCPはOCIなどと違って管理画面に『無償です』といった表示は特に出ないので、次回の請求まで無料枠が適用されているかどうかは分かりません。ドキドキですね（）</p>
+		<div class="wpulike wpulike-default " ><div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="いいねボタン"
+					data-ulike-id="537"
+					data-ulike-nonce="735d12b843"
+					data-ulike-type="post"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_image wp_post_btn_537"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>			</div></div>
+	<p><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=%2F2021%2F07%2F21%2Fgcp%25e3%2581%25ae%25e7%2584%25a1%25e6%2596%2599%25e3%2582%25af%25e3%2583%25a9%25e3%2582%25a6%25e3%2583%2589vm%25e3%2581%258c%25e6%2580%25a7%25e8%2583%25bd%25e3%2582%25a2%25e3%2583%2583%25e3%2583%2597%25e3%2581%2599%25e3%2582%258b%25e3%2582%2589%25e3%2581%2597%25e3%2581%2584f1-micro-%25e2%2586%2592-e2-micro%2F&amp;linkname=GCP%E3%81%AE%E7%84%A1%E6%96%99%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89VM%E3%81%8C%E6%80%A7%E8%83%BD%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84%28F1-Micro%20%20%E2%86%92%20E2-Micro%29" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=%2F2021%2F07%2F21%2Fgcp%25e3%2581%25ae%25e7%2584%25a1%25e6%2596%2599%25e3%2582%25af%25e3%2583%25a9%25e3%2582%25a6%25e3%2583%2589vm%25e3%2581%258c%25e6%2580%25a7%25e8%2583%25bd%25e3%2582%25a2%25e3%2583%2583%25e3%2583%2597%25e3%2581%2599%25e3%2582%258b%25e3%2582%2589%25e3%2581%2597%25e3%2581%2584f1-micro-%25e2%2586%2592-e2-micro%2F&amp;linkname=GCP%E3%81%AE%E7%84%A1%E6%96%99%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89VM%E3%81%8C%E6%80%A7%E8%83%BD%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84%28F1-Micro%20%20%E2%86%92%20E2-Micro%29" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=%2F2021%2F07%2F21%2Fgcp%25e3%2581%25ae%25e7%2584%25a1%25e6%2596%2599%25e3%2582%25af%25e3%2583%25a9%25e3%2582%25a6%25e3%2583%2589vm%25e3%2581%258c%25e6%2580%25a7%25e8%2583%25bd%25e3%2582%25a2%25e3%2583%2583%25e3%2583%2597%25e3%2581%2599%25e3%2582%258b%25e3%2582%2589%25e3%2581%2597%25e3%2581%2584f1-micro-%25e2%2586%2592-e2-micro%2F&amp;linkname=GCP%E3%81%AE%E7%84%A1%E6%96%99%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89VM%E3%81%8C%E6%80%A7%E8%83%BD%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84%28F1-Micro%20%20%E2%86%92%20E2-Micro%29" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=%2F2021%2F07%2F21%2Fgcp%25e3%2581%25ae%25e7%2584%25a1%25e6%2596%2599%25e3%2582%25af%25e3%2583%25a9%25e3%2582%25a6%25e3%2583%2589vm%25e3%2581%258c%25e6%2580%25a7%25e8%2583%25bd%25e3%2582%25a2%25e3%2583%2583%25e3%2583%2597%25e3%2581%2599%25e3%2582%258b%25e3%2582%2589%25e3%2581%2597%25e3%2581%2584f1-micro-%25e2%2586%2592-e2-micro%2F&amp;linkname=GCP%E3%81%AE%E7%84%A1%E6%96%99%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89VM%E3%81%8C%E6%80%A7%E8%83%BD%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84%28F1-Micro%20%20%E2%86%92%20E2-Micro%29" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=%2F2021%2F07%2F21%2Fgcp%25e3%2581%25ae%25e7%2584%25a1%25e6%2596%2599%25e3%2582%25af%25e3%2583%25a9%25e3%2582%25a6%25e3%2583%2589vm%25e3%2581%258c%25e6%2580%25a7%25e8%2583%25bd%25e3%2582%25a2%25e3%2583%2583%25e3%2583%2597%25e3%2581%2599%25e3%2582%258b%25e3%2582%2589%25e3%2581%2597%25e3%2581%2584f1-micro-%25e2%2586%2592-e2-micro%2F&amp;linkname=GCP%E3%81%AE%E7%84%A1%E6%96%99%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89VM%E3%81%8C%E6%80%A7%E8%83%BD%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84%28F1-Micro%20%20%E2%86%92%20E2-Micro%29" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=%2F2021%2F07%2F21%2Fgcp%25e3%2581%25ae%25e7%2584%25a1%25e6%2596%2599%25e3%2582%25af%25e3%2583%25a9%25e3%2582%25a6%25e3%2583%2589vm%25e3%2581%258c%25e6%2580%25a7%25e8%2583%25bd%25e3%2582%25a2%25e3%2583%2583%25e3%2583%2597%25e3%2581%2599%25e3%2582%258b%25e3%2582%2589%25e3%2581%2597%25e3%2581%2584f1-micro-%25e2%2586%2592-e2-micro%2F&#038;title=GCP%E3%81%AE%E7%84%A1%E6%96%99%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89VM%E3%81%8C%E6%80%A7%E8%83%BD%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84%28F1-Micro%20%20%E2%86%92%20E2-Micro%29" data-a2a-url="/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/" data-a2a-title="GCPの無料クラウドVMが性能アップするらしい(F1-Micro  → E2-Micro)"></a></p><p>The post <a href="/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/">GCPの無料クラウドVMが性能アップするらしい(F1-Micro  → E2-Micro)</a> first appeared on <a href="/">MasaruのIT＆マーケティングBLOG  |  Info Tech & Marketing BLOG by Masaru</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/21/gcp%e3%81%ae%e7%84%a1%e6%96%99%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89vm%e3%81%8c%e6%80%a7%e8%83%bd%e3%82%a2%e3%83%83%e3%83%97%e3%81%99%e3%82%8b%e3%82%89%e3%81%97%e3%81%84f1-micro-%e2%86%92-e2-micro/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">537</post-id>	</item>
+	</channel>
+</rss>
